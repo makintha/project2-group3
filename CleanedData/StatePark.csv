@@ -1,250 +1,250 @@
 Name,Category,Region,County,Golf,Camp,Playground,Nature Center,Beach,Longitude,Latitude
-Amherst,State Park,1,Erie,N,N,N,N,N,-78.74808818390001,42.971000873
-Beaver Island,State Park,1,Erie,Y,N,Y,Y,Y,-78.9531063633,42.965765939700006
-Big Six Mile Creek Marina,Marine Facility,1,Erie,N,N,N,N,N,-79.01098770029999,43.0231951575
-Buckhorn Island,State Park,1,Erie,N,N,N,N,N,-78.98074732479999,43.0585164791
-Darwin Martin House,State Historic Site,1,Erie,N,N,N,N,N,-78.8480452045,42.9360920889
-DeVeaux Woods,State Park,1,Erie,N,N,Y,N,N,-79.0587431765,43.1194167987
-Devil's Hole,State Park,1,Niagara,N,N,N,N,N,-79.0459607011,43.1346318545
-Earl W. Brydges Artpark,State Park,1,Niagara,N,N,N,N,N,-79.0419282069,43.1656182246
-Evangola,State Park,1,Erie,N,Y,Y,Y,Y,-79.1018592578,42.6057993585
-Fort Niagara,State Park,1,Niagara,N,N,Y,Y,N,-79.05258585060001,43.2616349374
-Four Mile Creek,State Park,1,Niagara,N,Y,Y,N,N,-78.9974685115,43.27437644850001
-Golden Hill,State Park,1,Niagara,N,Y,Y,N,N,-78.48015885640001,43.3694616791
-Joseph Davis,State Park,1,Niagara,N,N,Y,N,N,-79.03992445770001,43.21412114899999
-Knox Farm,State Park,1,Erie,N,N,N,N,N,-78.6477499359,42.773867265700005
-Niagara Falls,State Park,1,Niagara,N,N,N,Y,N,-79.06701953470001,43.0867482021
-Old Fort Niagara,State Historic Site,1,Niagara,N,N,N,N,N,-79.0631143489,43.2625939108
-Reservoir,State Park,1,Niagara,N,N,Y,N,N,-79.01503814729999,43.1340115441
-Strawberry Island,Other,1,Erie,N,N,N,N,N,-78.92249742119999,42.9539490596
-Whirlpool,State Park,1,Niagara,N,N,Y,N,N,-79.06341796779999,43.1204004767
-Wilson-Tuscarora,State Park,1,Niagara,N,N,Y,N,Y,-78.8556088836,43.3037772926
-Woodlawn Beach,State Park,1,Erie,N,N,Y,N,Y,-78.85220784890001,42.7938189008
-Allegany,State Park,2,Cattaraugus,N,Y,Y,Y-A,Y-M,-78.7685586473,42.0547575211
-Lake Erie,State Park,2,Chautauqua,N,Y,Y,N,Y,-79.431417873,42.4228907897
-Long Point,State Park,2,Chautauqua,N,N,Y,N,Y,-79.4109114045,42.1787606524
-Midway,State Park,2,Chautauqua,N,N,N,N,N,-79.4224274036,42.2008724801
-Braddock Bay,State Park,3,Monroe,N,N,N,N,N,-77.7038657164,43.2941954526
-Canal Park Lock 32,Other,3,Monroe,N,N,N,N,N,-77.54634100979999,43.0925511521
-Conesus Lake Marine Park,Marine Facility,3,Livingston,N,N,N,N,N,-77.7116004968,42.7758061511
-Darien Lakes,State Park,3,Genesee,N,Y,Y,N,Y,-78.4114922979,42.9118141573
-Genesee River,Other,3,Monroe,N,N,N,N,N,-77.61431270979999,43.2305847066
-Hamlin Beach,State Park,3,Monroe,N,Y,Y,N,Y-M,-77.9550976705,43.360091301400004
-Irondequoit Bay Marine Park,Marine Facility,3,Monroe,N,N,N,N,N,-77.5397106881,43.2318695342
-Lakeside Beach,State Park,3,Orleans,N,Y,Y,N,N,-78.2437024878,43.3663835822
-Letchworth,State Park,3,Liv/Wyo,N,Y,Y,N,N,-77.9757692236,42.6459213488
-Oak Orchard Marine Park,Marine Facility,3,Orleans,N,N,N,N,N,-78.2010190588,43.3681054695
-Silver Lake,State Park,3,Wyoming,N,N,N,N,N,-78.0565609783,42.6792542189
-Allan H. Treman,Marine Facility,4,Tompkins,N,N,N,N,N,-76.51756817399999,42.4613966817
-Beechwood,State Park,4,Wayne,N,N,N,N,N,-77.0337933037,43.266694455
-Bonavista,State Park,4,Seneca,Y,N,N,N,N,-76.86772497930001,42.6731942171
-Buttermilk Falls,State Park,4,Tompkins,N,Y,Y,N,Y-M,-76.51225663689999,42.4040259595
-Canandaigua Lake Marine Park,Marine Facility,4,Ontario,N,N,N,N,N,-77.275682797,42.8766685939
-Cayuga Lake,State Park,4,Seneca,N,Y,Y,N,Y,-76.7553118502,42.8979519073
-Chimney Bluffs,State Park,4,Wayne,N,N,N,N,N,-76.9170242028,43.2809455173
-Deans Cove Boat Launch,Marine Facility,4,Seneca,N,N,N,N,N,-76.7687292376,42.7444615076
-Fair Haven Beach,State Park,4,Cayuga,Y,Y,Y,N,Y-M,-76.6913106828,43.3417081221
-Fillmore Glen,State Park,4,Cayuga,N,Y,Y,N,Y,-76.388006245,42.6909689808
-Ganondagon,State Historic Site,4,Ontario,N,N,N,N,N,-77.4220682423,42.9648298665
-Harriet Hollister Spencer,State Park,4,Ontario,N,N,N,N,N,-77.51547808689999,42.688112003
-Honeoye Marine Park,Marine Facility,4,Ontario,N,N,N,N,N,-77.50457814970001,42.725754019899995
-Indian Hills,State Park,4,Steuben,Y,N,N,N,N,-77.1547655357,42.0930548903
-Keuka Lake,State Park,4,Yates,N,N,Y,N,Y,-77.1285833589,42.582182552199995
-Lodi Point Marine Park,Marine Facility,4,Seneca,N,N,Y,N,N,-76.8768305442,42.6182465855
-Long Point,State Park,4,Cayuga,N,N,Y,N,Y,-76.6984092825,42.717411041300004
-Mark Twain,State Park,4,Chemung,Y,N,N,N,N,-76.8356909125,42.211660694
-Newtown Battlefield,State Park,4,Chemung,N,Y,Y,N,N,-76.73631726939999,42.049026518299996
-Parrot Hall,State Historic Site,4,Ontario,N,N,N,N,N,-77.0088142477,42.876773957800005
-Pinnacle,State Park,4,Steuben,Y,N,N,N,N,-77.2145609228,42.0973529692
-Robert H. Treman,State Park,4,Tompkins,N,Y,Y,N,Y,-76.57954420760001,42.4005756394
-Sampson,State Park,4,Seneca,N,Y,Y,N,Y,-76.9013257035,42.7254900187
-Seneca Lake,State Park,4,Ont/Sen,N,N,Y,N,Y,-76.9545497708,42.8739500967
-Sonnenberg Gardens and Mansion,State Historic Park,4,Ontario,N,N,N,N,N,-77.2721596007,42.898146773600004
-Stony Brook,State Park,4,Steuben,N,Y,Y,N,Y-M,-77.6929663929,42.518559529099996
-Taughannock Falls,State Park,4,Tompkins,N,Y,Y,N,Y,-76.6097670832,42.5407382384
-Two Rivers,State Park,4,Tioga,N,N,N,N,N,-76.5473199933,42.0251635453
-Watkins Glen,State Park,4,Schuyler,N,Y,Y,N,N,-76.90013375859999,42.367539739899996
-Battle Island,State Park,5,Oswego,Y,N,N,N,N,-76.4360441829,43.3616709338
-Betty & Wilbur Davis,State Park,5,Otsego,N,N,N,N,N,-74.8329098238,42.6636396942
-Bowman Lake,State Park,5,Chenango,N,Y,Y,N,Y,-75.6806338029,42.519984738000005
-Canadarago Boat Marine Park,Marine Facility,5,Otsego,N,N,N,N,N,-75.013711762,42.8186973108
-Chenango Valley,State Park,5,Broome,Y,Y,Y,N,Y,-75.8362368401,42.2155402507
-Chittenango Falls,State Park,5,Madison,N,N,Y,Y,N,-75.8466563129,42.981484736599995
-Clark Reservation,State Park,5,Onondaga,N,N,Y,Y,N,-76.0930004359,42.9975225031
-Delta Lake,State Park,5,Oneida,N,Y,Y,N,Y,-75.4218722435,43.290965581
-Fort Ontario,State Historic Site,5,Oswego,N,N,N,N,N,-76.5074471503,43.4661242441
-Gilbert Lake,State Park,5,Otsego,N,Y,Y,N,Y,-75.1324631246,42.586583996
-Glimmerglass,State Park,5,Otsego,N,Y,Y,N,Y,-74.8686839156,42.7936261732
-Green Lakes,State Park,5,Onondaga,Y,Y,Y,N,Y,-75.9818848047,43.0469783183
-Helen L. McNitt,Other,5,Madison,N,N,N,N,N,-75.8741083475,42.9708517551
-Herkimer Home,State Historic Site,5,Herkimer,N,N,N,N,N,-74.8158650531,43.0253285628
-Hyde Hall,State Historic Site,5,Otsego,N,N,N,N,N,-74.8739966963,42.7937333296
-John Burroughs Memorial,State Historic Site,5,Delaware,N,N,N,N,N,-74.5859690347,42.2947419755
-Lorenzo,State Historic Site,5,Madison,N,N,N,N,N,-75.8656999617,42.9229020904
-Mexico Point,State Park,5,Oswego,N,N,N,N,N,-76.2584640776,43.5199984003
-Mexico Point Marine Park,Marine Facility,5,Oswego,N,N,N,N,N,-76.2551432086,43.523375036400004
-Old Erie Canal,State Historic Park,5,Onon/Mad/Oneida,N,N,N,N,N,-75.9217693491,43.075474704799994
-Oquaga Creek,State Park,5,Broome/Delaware,N,Y,Y,N,Y,-75.4246793483,42.178051449099996
-Oriskany Battlefield,State Historic Site,5,Oneida,N,N,N,N,N,-75.3667103924,43.176774697
-Pixley Falls,State Park,5,Oneida,N,Y,N,N,N,-75.3414755523,43.4043184536
-Robert V. Riddell,State Park,5,Otsego,N,N,N,N,N,-74.9371075745,42.4762545082
-Sandy Island Beach,State Park,5,Oswego,N,N,N,N,Y,-76.1956650041,43.630931605200004
-Selkirk Shores,State Park,5,Oswego,N,Y,Y,N,Y,-76.1984400233,43.5556620105
-State Park at the Fair,Other,5,Onondaga,N,N,N,N,N,-76.2169659143,43.0711046317
-Steuben Memorial,State Historic Site,5,Oneida,N,N,N,N,N,-75.2324893011,43.3381056996
-Verona Beach,State Park,5,Oneida,N,Y,Y,N,Y,-75.716586586,43.178008248999994
-Clarence Fahnestock,State Park,7,Putnam,N,Y,N,Y-A,Y,-73.8476473928,41.452756330700005
-Clermont,State Historic Site,7,Col/Dutch,N,N,N,N,N,-73.911040157,42.0833097387
-Clinton House,State Historic Site,7,Dutchess,N,N,N,N,N,-73.9162447123,41.700364954
-Donald J. Trump,State Park,7,Putnam/Westchester,N,N,N,N,N,-73.8083717836,41.3453986775
-Donald J. Trump,State Park,7,Putnam/Westchester,N,N,N,N,N,-73.8040521147,41.2626335527
-Franklin Delano Roosevelt,State Park,7,Westchester,N,N,Y,N,N,-73.8087569052,41.2823041702
-Hart's Brook Nature Preserve & Arboretum,Other,7,Westchester,N,N,N,N,N,-73.8080601676,41.0179614433
-Hudson Highlands,State Park Preserve,7,Dutch/Put,N,N,N,N,N,-73.9621103209,41.433755673
-James Baird,State Park,7,Dutchess,Y,N,Y,N,N,-73.7954318134,41.6880050951
-John Jay Homestead,State Historic Site,7,Westchester,N,N,N,N,N,-73.6588064087,41.2503409573
-Lake Taghkanic,State Park,7,Columbia,N,Y,Y,N,Y-M,-73.70588781880001,42.092881818
-Margaret Lewis Norrie,State Park,7,Dutchess,N,Y,N,N,N,-73.9389551372,41.8415365481
-Ogden & Ruth Livingston Mills,State Park,7,Dutchess,Y,N,N,N,N,-73.9348059546,41.8530053952
-Olana,State Historic Site,7,Columbia,N,N,N,N,N,-73.8287595658,42.2145951381
-Old Croton Aqueduct,State Historic Park,7,Westchester,N,N,N,N,N,-73.8631712826,41.1656638717
-Peter Jay,Other,7,Westchester,N,N,N,N,N,-73.7058775486,40.9569460139
-Philipse Manor Hall,State Historic Site,7,Westchester,N,N,N,N,N,-73.8993128614,40.9355500517
-Quiet Cove Riverfront Park,Other,7,Dutchess,N,N,N,N,N,-73.93449945,41.7332253868
-Rockefeller Park Preserve,State Park,7,Westchester,N,N,N,N,N,-73.83253998949999,41.1096930853
-Staatsburgh,State Historic Site,7,Dutchess,N,N,N,N,N,-73.9299489021,41.8566275388
-Taconic,State Park,7,Dutchess,N,N,Y,Y,Y-M,-73.5174392806,42.0778638556
-Taxter Ridge,Other,7,Westchester,N,N,N,N,N,-73.8387767742,41.0551193933
-Walkway over the Hudson,State Historic Park,7,Dutchess,N,N,N,N,N,-73.9449508899,41.7105870004
-Wonder Lake,State Park,7,Putnam,N,N,N,N,N,-73.64658631489999,41.4919031611
-Bear Mountain,State Park,8,Rockland/Orange,N,N,Y,Y-A,N,-73.9924016123,41.2990042301
-Blauvelt,State Park,8,Rockland,N,N,N,N,N,-73.9373730834,41.074241369
-Bristol Beach,State Park,8,Rockland,N,N,N,N,N,-73.9325310791,42.1083717833
-Fort Montgomery,State Historic Site,8,Orange,N,N,N,N,N,-73.98957245689999,41.3243022048
-Franny Reese Preserve,State Park,8,Ulster,N,N,N,N,N,-73.9559643746,41.7014644466
-Goosepond Mountain,State Park,8,Orange,N,N,N,N,N,-74.24664764090001,41.3375248269
-Harriman,State Park,8,Rock/Orange,N,Y,Y,N,Y-M,-74.1016999643,41.237330483499996
-Haverstraw Beach,State Park,8,Rockland,N,N,N,N,N,-73.9431704761,41.1779918118
-High Tor,State Park,8,Rockland,N,N,N,N,N,-73.9840129896,41.1906178735
-Highland Lakes,State Park,8,Orange,N,N,N,N,N,-74.3285754476,41.491300578899995
-Hook Mountain,State Park,8,Rockland,N,N,N,N,N,-73.91588171800001,41.1517064047
-Iona Island,State Park,8,Rockland,N,N,N,N,N,-73.9760036984,41.304270601999995
-Knox Headquarters,State Historic Site,8,Orange,N,N,N,N,N,-74.0478219441,41.4534352252
-Lake Superior,State Park,8,Sullivan,N,N,N,N,Y,-74.8794264796,41.6679305297
-Minnewaska,State Park Preserve,8,Ulster,N,N,N,Y,Y-M,-74.2932352939,41.7158154916
-New Windsor Cantonement,State Historic Site,8,Orange,N,N,N,N,N,-74.05945726770001,41.4733927813
-Nyack Beach,State Park,8,Rockland,N,N,N,N,N,-73.90865449420001,41.127127695300004
-Palisades,State Park,8,Rockland,N,N,N,N,N,-73.9035443708,41.0000423858
-Rockland Lake,State Park,8,Rockland,Y,N,N,Y,N,-73.9219192445,41.136210682199994
-Schunnemunk Mountain,State Park,8,Orange,N,N,N,N,N,-74.10271725189999,41.4021107609
-Senate House,State Historic Site,8,Orange,N,N,N,N,N,-74.0188842412,41.9349364666
-Sterling Forest,State Park,8,Orange,N,N,N,Y-A,N,-74.2467658789,41.2119192066
-Stony Point Battlefield,State Historic Site,8,Rockland,N,N,N,N,N,-73.97637349729999,41.2410903919
-Storm King,State Park,8,Orange,N,N,N,N,N,-73.991346402,41.425644491
-Tallman Mountain,State Park,8,Rockland,N,N,Y,N,N,-73.9103313153,41.026422675999996
-Washington's Headquarters,State Historic Site,8,Orange,N,N,N,N,N,-74.0096075788,41.4977050471
 Alfred E. Smith/Sunken Meadow,State Park,9,Suffolk,Y,N,Y,N,Y,-73.2632063245,40.909992269499995
+Allan H. Treman,Marine Facility,4,Tompkins,N,N,N,N,N,-76.51756817399999,42.4613966817
+Allegany,State Park,2,Cattaraugus,N,Y,Y,Y-A,Y-M,-78.7685586473,42.0547575211
+Amherst,State Park,1,Erie,N,N,N,N,N,-78.74808818390001,42.971000873
 Amsterdam Beach,State Park,9,Suffolk,N,N,N,N,N,-71.900265311,41.0477711309
+Athens Boat Launch,Marine Facility,11,Greene,N,N,N,N,N,-73.802276886,42.2729538399
+Battle Island,State Park,5,Oswego,Y,N,N,N,N,-76.4360441829,43.3616709338
 Bayard Cutting Arboretum,State Park,9,Suffolk,N,N,N,Y,N,-73.1577583532,40.7472405356
+Bayswater,State Park,12,Queens,N,N,N,N,N,-73.7725529333,40.6128179007
+Bear Mountain,State Park,8,Rockland/Orange,N,N,Y,Y-A,N,-73.9924016123,41.2990042301
+Beaver Island,State Park,1,Erie,Y,N,Y,Y,Y,-78.9531063633,42.965765939700006
+Beechwood,State Park,4,Wayne,N,N,N,N,N,-77.0337933037,43.266694455
 Belmont Lake,State Park,9,Suffolk,N,N,Y,N,N,-73.3367949963,40.7262324019
+Bennington Battlefield,State Historic Site,11,Rensselaer,N,N,N,N,N,-73.3022506021,42.9395061504
 Bethpage,State Park,9,Nassau,Y,N,Y,N,N,-73.4568035403,40.7475174105
+Betty & Wilbur Davis,State Park,5,Otsego,N,N,N,N,N,-74.8329098238,42.6636396942
+Big Six Mile Creek Marina,Marine Facility,1,Erie,N,N,N,N,N,-79.01098770029999,43.0231951575
+Black Lake Boat Launch,Marine Facility,10,St. Lawrence,N,N,N,N,N,-75.61303889279999,44.5093867729
+Blauvelt,State Park,8,Rockland,N,N,N,N,N,-73.9373730834,41.074241369
+Bonavista,State Park,4,Seneca,Y,N,N,N,N,-76.86772497930001,42.6731942171
+Bowman Lake,State Park,5,Chenango,N,Y,Y,N,Y,-75.6806338029,42.519984738000005
+Braddock Bay,State Park,3,Monroe,N,N,N,N,N,-77.7038657164,43.2941954526
 Brentwood,State Park,9,Suffolk,N,N,N,N,N,-73.2711299925,40.7915533842
+Bristol Beach,State Park,8,Rockland,N,N,N,N,N,-73.9325310791,42.1083717833
 Brookhaven,State Park,9,Suffolk,N,N,N,N,N,-72.8648165733,40.9209500377
+Buckhorn Island,State Park,1,Erie,N,N,N,N,N,-78.98074732479999,43.0585164791
+Buffalo Harbor,State Park,1,Erie,N,N,N,N,N,-78.8646829903,42.8463872552
+Burnham Point,State Park,10,Jefferson,N,Y,Y,N,N,-76.2644442667,44.162502486499996
+Buttermilk Falls,State Park,4,Tompkins,N,Y,Y,N,Y-M,-76.51225663689999,42.4040259595
 Caleb Smith Park Preserve,State Park Preserve,9,Suffolk,N,N,N,Y-A,N,-73.2260164473,40.853037980799996
 Camp Hero,State Park,9,Suffolk,N,N,N,N,N,-71.8777872995,41.0617719475
+Canadarago Boat Marine Park,Marine Facility,5,Otsego,N,N,N,N,N,-75.013711762,42.8186973108
+Canal Park Lock 32,Other,3,Monroe,N,N,N,N,N,-77.54634100979999,43.0925511521
+Canandaigua Lake Marine Park,Marine Facility,4,Ontario,N,N,N,N,N,-77.275682797,42.8766685939
+Canoe Picnic Point,State Park,10,Jefferson,N,Y,N,N,N,-76.0747121606,44.30417138600001
 Captree,State Park,9,Suffolk,N,N,Y,N,N,-73.2612735859,40.6388521833
 Caumsett,State Historic Park,9,Suffolk,N,N,N,N,N,-73.4686773494,40.9281246175
-Cold Spring Harbor,State Park,9,Suffolk,N,N,N,N,N,-73.4602230086,40.8628393914
-Connetquot River,State Park Preserve,9,Suffolk,N,N,N,Y-A,N,-73.1492496889,40.7694292476
-Gilgo,State Park,9,Suffolk,N,N,N,N,N,-73.3429302908,40.6342880994
-Hallock,State Park Preserve,9,Suffolk,N,N,N,N,N,-72.5974738093,40.9907206945
-Heckscher,State Park,9,Suffolk,N,Y,Y,N,Y-M,-73.1649223786,40.7086615084
-Hempstead Lake,State Park,9,Nassau,N,N,Y,N,N,-73.6424215072,40.6823140013
-Hither Hills,State Park,9,Suffolk,N,Y,Y,Y,Y,-72.02131303600001,41.01605601
-Hither Woods,State Park,9,Suffolk,N,N,N,N,N,-71.9893331346,41.0313237016
-Jones Beach,State Park,9,Nassau,Y,N,Y,Y-A,Y-M,-73.5164273182,40.596010848
-Montauk Downs,State Park,9,Suffolk,Y,N,N,N,N,-71.9385278002,41.049287682199996
-Montauk Point,State Park,9,Suffolk,N,N,Y,N,N,-71.8813883492,41.0714502774
-Napeague,State Park,9,Suffolk,N,N,N,N,N,-72.0758973835,40.9932649957
-Nissequogue River,State Park,9,Suffolk,N,N,Y,N,N,-73.2316962038,40.8986704423
-Orient Beach,State Park,9,Suffolk,N,N,Y,N,Y,-72.271525252,41.128551324899995
-Planting Fields Arboretum,State Historic Park,9,Nassau,N,N,N,Y,N,-73.55722532989999,40.8621752807
-Robert Moses,State Park,9,Suffolk,Y,N,Y,N,Y-M,-73.2651424363,40.6235177464
-Sag Harbor,State Park,9,Suffolk,Y,N,N,N,N,-72.2605666428,40.9970245166
-Shadmoor,State Park,9,Suffolk,N,N,N,N,N,-71.9277281182,41.0386809843
-Trail View,State Park,9,Nassau,N,N,N,N,N,-73.470168754,40.8141101008
-Valley Stream,State Park,9,Nassau,N,N,Y,N,N,-73.6942502018,40.678766026
-Walt Whitman Birthplace,State Historic Site,9,Suffolk,N,N,N,N,N,-73.4117645186,40.8171750838
-Wildwood,State Park,9,Suffolk,N,Y,Y,N,Y,-72.7945734139,40.9604999599
-Black Lake Boat Launch,Marine Facility,10,St. Lawrence,N,N,N,N,N,-75.61303889279999,44.5093867729
-Burnham Point,State Park,10,Jefferson,N,Y,Y,N,N,-76.2644442667,44.162502486499996
-Canoe Picnic Point,State Park,10,Jefferson,N,Y,N,N,N,-76.0747121606,44.30417138600001
+Cayuga Lake,State Park,4,Seneca,N,Y,Y,N,Y,-76.7553118502,42.8979519073
 Cedar Island,State Park,10,St. Lawrence,N,Y,N,N,N,-75.7905288637,44.449679331999995
 Cedar Point,State Park,10,Jefferson,N,Y,Y,N,Y,-76.19613394,44.2034891967
 Chaumont Boat Launch,Marine Facility,10,Jefferson,N,N,N,N,N,-76.14980352159999,44.0694089909
-Coles Creek,State Park,10,St. Lawrence,N,Y,Y,N,Y,-75.1232360855,44.8847335701
-Crab Island,State Park,10,Clinton,N,N,N,N,N,-73.4171493852,44.661757996999995
-Croil Island,State Park,10,St. Lawrence,N,N,N,N,N,-74.9794752521,44.972568110299996
-Cumberland Bay,State Park,10,Clinton,N,Y,Y,N,Y,-73.4211799632,44.7333465428
-Dewolf Point,State Park,10,Jefferson,N,Y,N,N,N,-75.9901417959,44.3327407662
-Eel Weir,State Park,10,St. Lawrence,N,Y,N,N,N,-75.4759295772,44.6299900391
-Galop Island,State Park,10,St. Lawrence,N,N,N,N,N,-75.3927637822,44.768436721499995
-Grass Point,State Park,10,Jefferson,N,Y,Y,N,Y,-75.9959300735,44.281766814300006
-Great Chazy Boat Launch,Marine Facility,10,Clinton,N,N,N,N,N,-73.3872247618,44.931594464700005
-Higley Flow,State Park,10,St. Lawrence,N,Y,Y,N,Y,-74.9146427262,44.498298633999994
-Jacques Cartier,State Park,10,St. Lawrence,N,Y,Y,N,Y,-75.6805191967,44.5548414638
-Keewaydin,State Park,10,Jefferson,N,Y,Y,N,N,-75.929711027,44.3234302144
-Kring Point,State Park,10,Jefferson,N,Y,Y,N,Y,-75.8561585397,44.3771887503
-Long Point,State Park,10,Jefferson,N,Y,Y,N,N,-76.2170574817,44.028440222600004
-Macomb Reservation,State Park,10,Clinton,N,Y,Y,N,Y,-73.6124077611,44.6178649163
-Mary Island,State Park,10,Jefferson,N,Y,N,N,N,-75.92157812079999,44.3655711042
-Point Au Roche,State Park,10,Clinton,N,N,Y,Y,Y,-73.3876934712,44.778400429499996
-Point Au Roche Boat Launch,Marine Facility,10,Clinton,N,N,N,N,N,-73.3643906755,44.8029711522
-Robert Moses,State Park,10,St. Lawrence,N,N,Y,N,Y,-74.8273503481,45.0006401225
-Robert Wehle,State Park,10,Jefferson,N,N,N,N,N,-76.2755003184,43.8671690839
-Rock Island Lighthouse,State Park,10,Jefferson,N,N,N,N,N,-76.0167955672,44.2803113504
-Sackets Harbor,State Historic Site,10,Jefferson,N,N,N,N,N,-76.129780271,43.946309827700006
-Southwick Beach,State Park,10,Jefferson,N,Y,Y,N,Y-M,-76.2046003266,43.7632912666
-St. Lawrence,State Park,10,St. Lawrence,Y,N,N,N,N,-75.5765698357,44.6298363383
-Stony Creek Boat Launch,Marine Facility,10,Jefferson,N,N,N,N,N,-76.229208226,43.8256113639
-Waterson Point,State Park,10,Jefferson,N,N,N,N,N,-76.0100758633,44.3391781774
-Wellesley Island,State Park,10,Jefferson,Y,Y,Y,Y,Y,-76.0154482065,44.3292380029
-Westcott Beach,State Park,10,Jefferson,N,Y,Y,N,Y-M,-76.118017026,43.8969804832
-Whetstone Gulf,State Park,10,Lewis,N,N,Y,N,Y,-75.4774154637,43.6985075739
-Wilson Hill Boat Launch,Marine Facility,10,St. Lawrence,N,N,N,N,N,-75.0069996446,44.929028719099996
-Athens Boat Launch,Marine Facility,11,Greene,N,N,N,N,N,-73.802276886,42.2729538399
-Bennington Battlefield,State Historic Site,11,Rensselaer,N,N,N,N,N,-73.3022506021,42.9395061504
+Chenango Valley,State Park,5,Broome,Y,Y,Y,N,Y,-75.8362368401,42.2155402507
 Cherry Plain,State Park,11,Rensselaer,N,Y,Y,N,Y,-73.412215266,42.6178677896
+Chimney Bluffs,State Park,4,Wayne,N,N,N,N,N,-76.9170242028,43.2809455173
+Chittenango Falls,State Park,5,Madison,N,N,Y,Y,N,-75.8466563129,42.981484736599995
+Clarence Fahnestock,State Park,7,Putnam,N,Y,N,Y-A,Y,-73.8476473928,41.452756330700005
+Clark Reservation,State Park,5,Onondaga,N,N,Y,Y,N,-76.0930004359,42.9975225031
+Clay Pit Ponds,State Park Preserve,12,Richmond,N,N,N,Y-A,N,-74.2290460884,40.5405635456
+Clermont,State Historic Site,7,Col/Dutch,N,N,N,N,N,-73.911040157,42.0833097387
+Clinton House,State Historic Site,7,Dutchess,N,N,N,N,N,-73.9162447123,41.700364954
+Cold Spring Harbor,State Park,9,Suffolk,N,N,N,N,N,-73.4602230086,40.8628393914
+Coles Creek,State Park,10,St. Lawrence,N,Y,Y,N,Y,-75.1232360855,44.8847335701
+Conesus Lake Marine Park,Marine Facility,3,Livingston,N,N,N,N,N,-77.7116004968,42.7758061511
+Connetquot River,State Park Preserve,9,Suffolk,N,N,N,Y-A,N,-73.1492496889,40.7694292476
 Coxsackie Boat Launch,Marine Facility,11,Greene,N,N,Y,N,N,-73.7957752251,42.3527161128
+Crab Island,State Park,10,Clinton,N,N,N,N,N,-73.4171493852,44.661757996999995
 Crailo,State Historic Site,11,Rensselaer,N,N,N,N,N,-73.749225681,42.634629075300005
+Croil Island,State Park,10,St. Lawrence,N,N,N,N,N,-74.9794752521,44.972568110299996
 Crown Point,State Historic Site,11,Essex,N,N,N,N,N,-73.4316631872,44.0233248124
+Cumberland Bay,State Park,10,Clinton,N,Y,Y,N,Y,-73.4211799632,44.7333465428
+Darien Lakes,State Park,3,Genesee,N,Y,Y,N,Y,-78.4114922979,42.9118141573
+Darwin Martin House,State Historic Site,1,Erie,N,N,N,N,N,-78.8480452045,42.9360920889
+DeVeaux Woods,State Park,1,Erie,N,N,Y,N,N,-79.0587431765,43.1194167987
+Deans Cove Boat Launch,Marine Facility,4,Seneca,N,N,N,N,N,-76.7687292376,42.7444615076
+Delta Lake,State Park,5,Oneida,N,Y,Y,N,Y,-75.4218722435,43.290965581
+Devil's Hole,State Park,1,Niagara,N,N,N,N,N,-79.0459607011,43.1346318545
+Dewolf Point,State Park,10,Jefferson,N,Y,N,N,N,-75.9901417959,44.3327407662
+Donald J. Trump,State Park,7,Putnam/Westchester,N,N,N,N,N,-73.8083717836,41.3453986775
+Donald J. Trump,State Park,7,Putnam/Westchester,N,N,N,N,N,-73.8040521147,41.2626335527
+Earl W. Brydges Artpark,State Park,1,Niagara,N,N,N,N,N,-79.0419282069,43.1656182246
+East River,State Park,12,Kings,N,N,Y,N,N,-73.962057535,40.7214246134
+Eel Weir,State Park,10,St. Lawrence,N,Y,N,N,N,-75.4759295772,44.6299900391
+Evangola,State Park,1,Erie,N,Y,Y,Y,Y,-79.1018592578,42.6057993585
+Fair Haven Beach,State Park,4,Cayuga,Y,Y,Y,N,Y-M,-76.6913106828,43.3417081221
+Fillmore Glen,State Park,4,Cayuga,N,Y,Y,N,Y,-76.388006245,42.6909689808
+Fort Montgomery,State Historic Site,8,Orange,N,N,N,N,N,-73.98957245689999,41.3243022048
+Fort Niagara,State Park,1,Niagara,N,N,Y,Y,N,-79.05258585060001,43.2616349374
+Fort Ontario,State Historic Site,5,Oswego,N,N,N,N,N,-76.5074471503,43.4661242441
+Four Mile Creek,State Park,1,Niagara,N,Y,Y,N,N,-78.9974685115,43.27437644850001
+Franklin D. Roosevelt Four Freedoms,State Park,12,Manhattan,N,N,N,N,N,-73.9603793708,40.7506765522
+Franklin Delano Roosevelt,State Park,7,Westchester,N,N,Y,N,N,-73.8087569052,41.2823041702
+Franny Reese Preserve,State Park,8,Ulster,N,N,N,N,N,-73.9559643746,41.7014644466
+Galop Island,State Park,10,St. Lawrence,N,N,N,N,N,-75.3927637822,44.768436721499995
+Ganondagon,State Historic Site,4,Ontario,N,N,N,N,N,-77.4220682423,42.9648298665
+Gantry Plaza,State Park,12,Queens,N,N,Y,N,N,-73.959045245,40.7443521446
+Genesee River,Other,3,Monroe,N,N,N,N,N,-77.61431270979999,43.2305847066
+Gilbert Lake,State Park,5,Otsego,N,Y,Y,N,Y,-75.1324631246,42.586583996
+Gilgo,State Park,9,Suffolk,N,N,N,N,N,-73.3429302908,40.6342880994
+Glimmerglass,State Park,5,Otsego,N,Y,Y,N,Y,-74.8686839156,42.7936261732
+Golden Hill,State Park,1,Niagara,N,Y,Y,N,N,-78.48015885640001,43.3694616791
+Goosepond Mountain,State Park,8,Orange,N,N,N,N,N,-74.24664764090001,41.3375248269
 Grafton Lakes,State Park,11,Rensselaer,N,N,Y,N,Y,-73.4428610841,42.784189977
 Grant Cottage,State Historic Site,11,Saratoga,N,N,N,N,N,-73.7454175731,43.2012117039
+Grass Point,State Park,10,Jefferson,N,Y,Y,N,Y,-75.9959300735,44.281766814300006
+Great Chazy Boat Launch,Marine Facility,10,Clinton,N,N,N,N,N,-73.3872247618,44.931594464700005
+Green Lakes,State Park,5,Onondaga,Y,Y,Y,N,Y,-75.9818848047,43.0469783183
 Guy Park,State Historic Site,11,Montgomery,N,N,N,N,N,-74.2095482157,42.9469520074
+Hallock,State Park Preserve,9,Suffolk,N,N,N,N,N,-72.5974738093,40.9907206945
+Hamlin Beach,State Park,3,Monroe,N,Y,Y,N,Y-M,-77.9550976705,43.360091301400004
+Harriet Hollister Spencer,State Park,4,Ontario,N,N,N,N,N,-77.51547808689999,42.688112003
+Harriman,State Park,8,Rock/Orange,N,Y,Y,N,Y-M,-74.1016999643,41.237330483499996
+Hart's Brook Nature Preserve & Arboretum,Other,7,Westchester,N,N,N,N,N,-73.8080601676,41.0179614433
+Haverstraw Beach,State Park,8,Rockland,N,N,N,N,N,-73.9431704761,41.1779918118
+Heckscher,State Park,9,Suffolk,N,Y,Y,N,Y-M,-73.1649223786,40.7086615084
+Helen L. McNitt,Other,5,Madison,N,N,N,N,N,-75.8741083475,42.9708517551
+Hempstead Lake,State Park,9,Nassau,N,N,Y,N,N,-73.6424215072,40.6823140013
+Herkimer Home,State Historic Site,5,Herkimer,N,N,N,N,N,-74.8158650531,43.0253285628
+High Tor,State Park,8,Rockland,N,N,N,N,N,-73.9840129896,41.1906178735
+Highland Lakes,State Park,8,Orange,N,N,N,N,N,-74.3285754476,41.491300578899995
+Higley Flow,State Park,10,St. Lawrence,N,Y,Y,N,Y,-74.9146427262,44.498298633999994
+Hither Hills,State Park,9,Suffolk,N,Y,Y,Y,Y,-72.02131303600001,41.01605601
+Hither Woods,State Park,9,Suffolk,N,N,N,N,N,-71.9893331346,41.0313237016
+Honeoye Marine Park,Marine Facility,4,Ontario,N,N,N,N,N,-77.50457814970001,42.725754019899995
+Hook Mountain,State Park,8,Rockland,N,N,N,N,N,-73.91588171800001,41.1517064047
+Hudson Highlands,State Park Preserve,7,Dutch/Put,N,N,N,N,N,-73.9621103209,41.433755673
 Hudson River Islands,State Park,11,Columb/Greene,N,Y,N,N,N,-73.77837640000001,42.3288852476
+Hudson River Park,State Park,12,Manhattan,N,N,N,N,N,-74.0117431827,40.7354989295
+Hyde Hall,State Historic Site,5,Otsego,N,N,N,N,N,-74.8739966963,42.7937333296
+Indian Hills,State Park,4,Steuben,Y,N,N,N,N,-77.1547655357,42.0930548903
+Iona Island,State Park,8,Rockland,N,N,N,N,N,-73.9760036984,41.304270601999995
+Irondequoit Bay Marine Park,Marine Facility,3,Monroe,N,N,N,N,N,-77.5397106881,43.2318695342
+Jacques Cartier,State Park,10,St. Lawrence,N,Y,Y,N,Y,-75.6805191967,44.5548414638
+James Baird,State Park,7,Dutchess,Y,N,Y,N,N,-73.7954318134,41.6880050951
 John Boyd Thacher,State Park,11,Albany,N,N,Y,Y-A,N,-74.01470615779999,42.655465525
 John Brown Farm,State Historic Site,11,Essex,N,N,N,N,N,-73.9715067492,44.249574503699996
+John Burroughs Memorial,State Historic Site,5,Delaware,N,N,N,N,N,-74.5859690347,42.2947419755
+John Jay Homestead,State Historic Site,7,Westchester,N,N,N,N,N,-73.6588064087,41.2503409573
 Johnson Hall,State Historic Site,11,Fulton,N,N,N,N,N,-74.3818901744,43.0155118818
+Jones Beach,State Park,9,Nassau,Y,N,Y,Y-A,Y-M,-73.5164273182,40.596010848
+Joseph Davis,State Park,1,Niagara,N,N,Y,N,N,-79.03992445770001,43.21412114899999
+Keewaydin,State Park,10,Jefferson,N,Y,Y,N,N,-75.929711027,44.3234302144
+Keuka Lake,State Park,4,Yates,N,N,Y,N,Y,-77.1285833589,42.582182552199995
+Knox Farm,State Park,1,Erie,N,N,N,N,N,-78.6477499359,42.773867265700005
+Knox Headquarters,State Historic Site,8,Orange,N,N,N,N,N,-74.0478219441,41.4534352252
+Kring Point,State Park,10,Jefferson,N,Y,Y,N,Y,-75.8561585397,44.3771887503
+Lake Erie,State Park,2,Chautauqua,N,Y,Y,N,Y,-79.431417873,42.4228907897
 Lake Lauderdale,State Park,11,Washington,N,N,N,N,Y,-73.3704151279,43.0850856219
+Lake Superior,State Park,8,Sullivan,N,N,N,N,Y,-74.8794264796,41.6679305297
+Lake Taghkanic,State Park,7,Columbia,N,Y,Y,N,Y-M,-73.70588781880001,42.092881818
+Lakeside Beach,State Park,3,Orleans,N,Y,Y,N,N,-78.2437024878,43.3663835822
+Letchworth,State Park,3,Liv/Wyo,N,Y,Y,N,N,-77.9757692236,42.6459213488
+Lodi Point Marine Park,Marine Facility,4,Seneca,N,N,Y,N,N,-76.8768305442,42.6182465855
+Long Point,State Park,4,Cayuga,N,N,Y,N,Y,-76.6984092825,42.717411041300004
+Long Point,State Park,2,Chautauqua,N,N,Y,N,Y,-79.4109114045,42.1787606524
+Long Point,State Park,10,Jefferson,N,Y,Y,N,N,-76.2170574817,44.028440222600004
+Lorenzo,State Historic Site,5,Madison,N,N,N,N,N,-75.8656999617,42.9229020904
+Macomb Reservation,State Park,10,Clinton,N,Y,Y,N,Y,-73.6124077611,44.6178649163
+Margaret Lewis Norrie,State Park,7,Dutchess,N,Y,N,N,N,-73.9389551372,41.8415365481
+Mark Twain,State Park,4,Chemung,Y,N,N,N,N,-76.8356909125,42.211660694
+Mary Island,State Park,10,Jefferson,N,Y,N,N,N,-75.92157812079999,44.3655711042
 Max V. Shaul,State Park,11,Schoharie,N,Y,Y,N,N,-74.41092231350001,42.5479937717
+Mexico Point,State Park,5,Oswego,N,N,N,N,N,-76.2584640776,43.5199984003
+Mexico Point Marine Park,Marine Facility,5,Oswego,N,N,N,N,N,-76.2551432086,43.523375036400004
+Midway,State Park,2,Chautauqua,N,N,N,N,N,-79.4224274036,42.2008724801
 Mine Kill,State Park,11,Schoharie,N,N,Y,N,N,-74.4611210967,42.4340245355
+Minnewaska,State Park Preserve,8,Ulster,N,N,N,Y,Y-M,-74.2932352939,41.7158154916
 Mohawk River,State Park,11,Schenectady,N,N,N,N,N,-73.8496398366,42.800409379899996
+Montauk Downs,State Park,9,Suffolk,Y,N,N,N,N,-71.9385278002,41.049287682199996
+Montauk Point,State Park,9,Suffolk,N,N,Y,N,N,-71.8813883492,41.0714502774
 Moreau Lake,State Park,11,Saratoga,N,Y,Y,Y,Y,-73.7337768981,43.233213668599994
+Napeague,State Park,9,Suffolk,N,N,N,N,N,-72.0758973835,40.9932649957
+New Windsor Cantonement,State Historic Site,8,Orange,N,N,N,N,N,-74.05945726770001,41.4733927813
+Newtown Battlefield,State Park,4,Chemung,N,Y,Y,N,N,-76.73631726939999,42.049026518299996
+Niagara Falls,State Park,1,Niagara,N,N,N,Y,N,-79.06701953470001,43.0867482021
+Nissequogue River,State Park,9,Suffolk,N,N,Y,N,N,-73.2316962038,40.8986704423
+Nyack Beach,State Park,8,Rockland,N,N,N,N,N,-73.90865449420001,41.127127695300004
+Oak Orchard Marine Park,Marine Facility,3,Orleans,N,N,N,N,N,-78.2010190588,43.3681054695
+Ogden & Ruth Livingston Mills,State Park,7,Dutchess,Y,N,N,N,N,-73.9348059546,41.8530053952
+Olana,State Historic Site,7,Columbia,N,N,N,N,N,-73.8287595658,42.2145951381
+Old Croton Aqueduct,State Historic Park,7,Westchester,N,N,N,N,N,-73.8631712826,41.1656638717
+Old Erie Canal,State Historic Park,5,Onon/Mad/Oneida,N,N,N,N,N,-75.9217693491,43.075474704799994
+Old Fort Niagara,State Historic Site,1,Niagara,N,N,N,N,N,-79.0631143489,43.2625939108
+Oquaga Creek,State Park,5,Broome/Delaware,N,Y,Y,N,Y,-75.4246793483,42.178051449099996
+Orient Beach,State Park,9,Suffolk,N,N,Y,N,Y,-72.271525252,41.128551324899995
+Oriskany Battlefield,State Historic Site,5,Oneida,N,N,N,N,N,-75.3667103924,43.176774697
+Palisades,State Park,8,Rockland,N,N,N,N,N,-73.9035443708,41.0000423858
+Parrot Hall,State Historic Site,4,Ontario,N,N,N,N,N,-77.0088142477,42.876773957800005
 Peebles Island,State Park,11,Saratoga,N,N,N,N,N,-73.6845492304,42.7823213594
+Peter Jay,Other,7,Westchester,N,N,N,N,N,-73.7058775486,40.9569460139
+Philipse Manor Hall,State Historic Site,7,Westchester,N,N,N,N,N,-73.8993128614,40.9355500517
+Pinnacle,State Park,4,Steuben,Y,N,N,N,N,-77.2145609228,42.0973529692
+Pixley Falls,State Park,5,Oneida,N,Y,N,N,N,-75.3414755523,43.4043184536
+Planting Fields Arboretum,State Historic Park,9,Nassau,N,N,N,Y,N,-73.55722532989999,40.8621752807
+Point Au Roche,State Park,10,Clinton,N,N,Y,Y,Y,-73.3876934712,44.778400429499996
+Point Au Roche Boat Launch,Marine Facility,10,Clinton,N,N,N,N,N,-73.3643906755,44.8029711522
+Quiet Cove Riverfront Park,Other,7,Dutchess,N,N,N,N,N,-73.93449945,41.7332253868
+Reservoir,State Park,1,Niagara,N,N,Y,N,N,-79.01503814729999,43.1340115441
 Rexford Aqueduct,State Historic Site,11,Sara/Schen,N,N,N,N,N,-73.8876764506,42.849264962199996
+Riverbank,State Park,12,Manhattan,N,N,Y,N,N,-73.95685416970001,40.8255348249
+Robert H. Treman,State Park,4,Tompkins,N,Y,Y,N,Y,-76.57954420760001,42.4005756394
+Robert Moses,State Park,9,Suffolk,Y,N,Y,N,Y-M,-73.2651424363,40.6235177464
+Robert Moses,State Park,10,St. Lawrence,N,N,Y,N,Y,-74.8273503481,45.0006401225
+Robert V. Riddell,State Park,5,Otsego,N,N,N,N,N,-74.9371075745,42.4762545082
+Robert Wehle,State Park,10,Jefferson,N,N,N,N,N,-76.2755003184,43.8671690839
+Roberto Clemente,State Park,12,Bronx,N,N,Y,N,N,-73.9200427364,40.8553636655
+Rock Island Lighthouse,State Park,10,Jefferson,N,N,N,N,N,-76.0167955672,44.2803113504
+Rockefeller Park Preserve,State Park,7,Westchester,N,N,N,N,N,-73.83253998949999,41.1096930853
+Rockland Lake,State Park,8,Rockland,Y,N,N,Y,N,-73.9219192445,41.136210682199994
+Sackets Harbor,State Historic Site,10,Jefferson,N,N,N,N,N,-76.129780271,43.946309827700006
+Sag Harbor,State Park,9,Suffolk,Y,N,N,N,N,-72.2605666428,40.9970245166
+Sampson,State Park,4,Seneca,N,Y,Y,N,Y,-76.9013257035,42.7254900187
+Sandy Island Beach,State Park,5,Oswego,N,N,N,N,Y,-76.1956650041,43.630931605200004
 Saratoga Lake Marine Park,Marine Facility,11,Saratoga,N,N,N,N,N,-73.7204315347,43.0535053108
 Saratoga Spa,State Park,11,Saratoga,Y,N,Y,N,N,-73.8039355929,43.0508914472
 Schodack Island,State Park,11,Alb/Rens,N,N,Y,N,N,-73.7765204362,42.4905990224
 Schoharie Crossing,State Historic Site,11,Montgomery,N,N,Y,N,N,-74.26757027890001,42.9493448538
+Schunnemunk Mountain,State Park,8,Orange,N,N,N,N,N,-74.10271725189999,41.4021107609
 Schuyler Mansion,State Historic Site,11,Albany,N,N,N,N,N,-73.7592869931,42.641322973600005
+Selkirk Shores,State Park,5,Oswego,N,Y,Y,N,Y,-76.1984400233,43.5556620105
+Senate House,State Historic Site,8,Orange,N,N,N,N,N,-74.0188842412,41.9349364666
+Seneca Lake,State Park,4,Ont/Sen,N,N,Y,N,Y,-76.9545497708,42.8739500967
+Shadmoor,State Park,9,Suffolk,N,N,N,N,N,-71.9277281182,41.0386809843
+Silver Lake,State Park,3,Wyoming,N,N,N,N,N,-78.0565609783,42.6792542189
+Sonnenberg Gardens and Mansion,State Historic Park,4,Ontario,N,N,N,N,N,-77.2721596007,42.898146773600004
+Southwick Beach,State Park,10,Jefferson,N,Y,Y,N,Y-M,-76.2046003266,43.7632912666
+St. Lawrence,State Park,10,St. Lawrence,Y,N,N,N,N,-75.5765698357,44.6298363383
+Staatsburgh,State Historic Site,7,Dutchess,N,N,N,N,N,-73.9299489021,41.8566275388
+State Park at the Fair,Other,5,Onondaga,N,N,N,N,N,-76.2169659143,43.0711046317
+Sterling Forest,State Park,8,Orange,N,N,N,Y-A,N,-74.2467658789,41.2119192066
+Steuben Memorial,State Historic Site,5,Oneida,N,N,N,N,N,-75.2324893011,43.3381056996
+Stony Brook,State Park,4,Steuben,N,Y,Y,N,Y-M,-77.6929663929,42.518559529099996
+Stony Creek Boat Launch,Marine Facility,10,Jefferson,N,N,N,N,N,-76.229208226,43.8256113639
+Stony Point Battlefield,State Historic Site,8,Rockland,N,N,N,N,N,-73.97637349729999,41.2410903919
+Storm King,State Park,8,Orange,N,N,N,N,N,-73.991346402,41.425644491
+Strawberry Island,Other,1,Erie,N,N,N,N,N,-78.92249742119999,42.9539490596
 Susan B Anthony,Other,11,Washington,N,N,N,N,N,-73.423119782,43.1105299662
+Taconic,State Park,7,Dutchess,N,N,Y,Y,Y-M,-73.5174392806,42.0778638556
+Tallman Mountain,State Park,8,Rockland,N,N,Y,N,N,-73.9103313153,41.026422675999996
+Taughannock Falls,State Park,4,Tompkins,N,Y,Y,N,Y,-76.6097670832,42.5407382384
+Taxter Ridge,Other,7,Westchester,N,N,N,N,N,-73.8387767742,41.0551193933
 Thompson's Lake,State Park,11,Albany,N,Y,Y,N,Y,-74.04697993399999,42.6557310802
-Bayswater,State Park,12,Queens,N,N,N,N,N,-73.7725529333,40.6128179007
-Clay Pit Ponds,State Park Preserve,12,Richmond,N,N,N,Y-A,N,-74.2290460884,40.5405635456
-East River,State Park,12,Kings,N,N,Y,N,N,-73.962057535,40.7214246134
-Franklin D. Roosevelt Four Freedoms,State Park,12,Manhattan,N,N,N,N,N,-73.9603793708,40.7506765522
-Gantry Plaza,State Park,12,Queens,N,N,Y,N,N,-73.959045245,40.7443521446
-Hudson River Park,State Park,12,Manhattan,N,N,N,N,N,-74.0117431827,40.7354989295
-Riverbank,State Park,12,Manhattan,N,N,Y,N,N,-73.95685416970001,40.8255348249
-Roberto Clemente,State Park,12,Bronx,N,N,Y,N,N,-73.9200427364,40.8553636655
-Buffalo Harbor,State Park,1,Erie,N,N,N,N,N,-78.8646829903,42.8463872552
+Trail View,State Park,9,Nassau,N,N,N,N,N,-73.470168754,40.8141101008
+Two Rivers,State Park,4,Tioga,N,N,N,N,N,-76.5473199933,42.0251635453
+Valley Stream,State Park,9,Nassau,N,N,Y,N,N,-73.6942502018,40.678766026
+Verona Beach,State Park,5,Oneida,N,Y,Y,N,Y,-75.716586586,43.178008248999994
+Walkway over the Hudson,State Historic Park,7,Dutchess,N,N,N,N,N,-73.9449508899,41.7105870004
+Walt Whitman Birthplace,State Historic Site,9,Suffolk,N,N,N,N,N,-73.4117645186,40.8171750838
+Washington's Headquarters,State Historic Site,8,Orange,N,N,N,N,N,-74.0096075788,41.4977050471
+Waterson Point,State Park,10,Jefferson,N,N,N,N,N,-76.0100758633,44.3391781774
+Watkins Glen,State Park,4,Schuyler,N,Y,Y,N,N,-76.90013375859999,42.367539739899996
+Wellesley Island,State Park,10,Jefferson,Y,Y,Y,Y,Y,-76.0154482065,44.3292380029
+Westcott Beach,State Park,10,Jefferson,N,Y,Y,N,Y-M,-76.118017026,43.8969804832
+Whetstone Gulf,State Park,10,Lewis,N,N,Y,N,Y,-75.4774154637,43.6985075739
+Whirlpool,State Park,1,Niagara,N,N,Y,N,N,-79.06341796779999,43.1204004767
+Wildwood,State Park,9,Suffolk,N,Y,Y,N,Y,-72.7945734139,40.9604999599
+Wilson Hill Boat Launch,Marine Facility,10,St. Lawrence,N,N,N,N,N,-75.0069996446,44.929028719099996
+Wilson-Tuscarora,State Park,1,Niagara,N,N,Y,N,Y,-78.8556088836,43.3037772926
+Wonder Lake,State Park,7,Putnam,N,N,N,N,N,-73.64658631489999,41.4919031611
+Woodlawn Beach,State Park,1,Erie,N,N,Y,N,Y,-78.85220784890001,42.7938189008
