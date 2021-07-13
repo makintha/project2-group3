@@ -71,8 +71,8 @@ Year,OPRHP Region,County,Name,Attendance
 2019,Thousand Islands,St Lawrence,Eel Weir St Park,4583
 2019,New York City,Kings,Empire Fulton Ferry,0
 2019,Niagara,Erie,Evangola St Pk,189593
-2019,Finger Lakes,Cayuga,Fair Haven St Pk,294544
 2019,Taconic,Westchester,F D Roosevelt,572102
+2019,Finger Lakes,Cayuga,Fair Haven St Pk,294544
 2019,Finger Lakes,Cayuga,Fillmore Glen St Pk,111272
 2019,Palisades,Orange,Fort Montgomery,30970
 2019,Central,Oswego,Fort Ontario,123852
@@ -92,6 +92,7 @@ Year,OPRHP Region,County,Name,Attendance
 2019,Thousand Islands,Jefferson,Grass Pnt River Park,36632
 2019,Thousand Islands,Clinton,Great Chazy Boat Launch,16314
 2019,Central,Onondaga,Green Lakes State Park,1103261
+2019,Finger Lakes,Ontario,H H Spencer,56108
 2019,Long Island,Suffolk,Hallock St Pk Preserve,24826
 2019,Genesee,Monroe,Hamlin Beach State Park,345821
 2019,Palisades,Orange/Rockland,Harriman Beaver Pond,75051
@@ -101,9 +102,8 @@ Year,OPRHP Region,County,Name,Attendance
 2019,Long Island,Suffolk,Heckscher St Park,1133307
 2019,Long Island,Nassau,Hempstead Lake St Pk,397585
 2019,Central,Herkimer,Herkimer Home,6000
-2019,Finger Lakes,Ontario,H H Spencer,56108
-2019,Palisades,Orange,Highland Lakes,8308
 2019,Palisades,Rockland,High Tor St Pk,24373
+2019,Palisades,Orange,Highland Lakes,8308
 2019,Thousand Islands,St Lawrence,Higley Flow St Park,44892
 2019,Long Island,Suffolk,Hither Hills,497769
 2019,Finger Lakes,Ontario,Honeoye Bt Lau,41599
@@ -129,10 +129,10 @@ Year,OPRHP Region,County,Name,Attendance
 2019,Thousand Islands,Jefferson,Kring Point,50483
 2019,Allegany,Chautauqua,Lake Erie St Pk,107355
 2019,Saratoga/Capital,Washington,Lake Lauderdale *2,8588
-2019,Genesee,Orleans,Lakeside Beach St Pk,100587
 2019,Palisades,Sullivan,Lake Superior,11794
 2019,Taconic,Columbia,Lake Taghkanic St Park,185282
 2019,Palisades,Orange/Rockland,Lake Welch,312213
+2019,Genesee,Orleans,Lakeside Beach St Pk,100587
 2019,Genesee,Livingston/Wyoming,Letchworth State Park,841681
 2019,Finger Lakes,Seneca,Lodi Point Marina/Boat,19807
 2019,Allegany,Chautauqua,Long Point Marina,104645
@@ -154,8 +154,8 @@ Year,OPRHP Region,County,Name,Attendance
 2019,Saratoga/Capital,Saratoga,Moreau Lake St Pk,347290
 2019,Long Island,Suffolk,Napeague State Park,113260
 2019,Palisades,Orange,National Purple Heart Hall Of Honor,18564
-2019,Finger Lakes,Chemung,Newtown Battlefield,46609
 2019,Palisades,Orange,New Windsor Cantonment,20985
+2019,Finger Lakes,Chemung,Newtown Battlefield,46609
 2019,Niagara,Niagara,Niagara Reservation,9596491
 2019,Long Island,Suffolk,Nissequogue River,272750
 2019,Palisades,Rockland,Nyack Beach St Pk,121064
@@ -185,14 +185,14 @@ Year,OPRHP Region,County,Name,Attendance
 2019,Thousand Islands,St Lawrence,Robert Moses St Pk,114065
 2019,Long Island,Suffolk,Robert Moses St Pk,4269163
 2019,New York City,Bronx,Roberto Clemente,339868
-2019,Taconic,Westchester,Rockefeller Preserve,414211
 2019,Thousand Islands,Jefferson,Rock Island,6898
+2019,Taconic,Westchester,Rockefeller Preserve,414211
 2019,Palisades,Rockland,Rockland Lake State Park,574143
 2019,Taconic,Dutchess,Rudd Pond,17936
 2019,Thousand Islands,Jefferson,Sackets Harbor Btl Field,83642
 2019,Long Island,Suffolk,Sag Harbour,21968
-2019,Finger Lakes,Seneca,Sampson St Pk,165614
 2019,Palisades,Ulster,Sam's Point,86437
+2019,Finger Lakes,Seneca,Sampson St Pk,165614
 2019,Central,Oswego,Sandy Island Beach,18842
 2019,Saratoga/Capital,Saratoga,Saratoga Lake Boat Lnch,111352
 2019,Saratoga/Capital,Saratoga,Saratoga Springs (incl Victoria Pool & Golf Course),3065622
@@ -210,11 +210,11 @@ Year,OPRHP Region,County,Name,Attendance
 2019,Finger Lakes,Ontario,Sonnenberg Gardens and Mansion,34129
 2019,Thousand Islands,Jefferson,Southwick Beach St Pk,84212
 2019,Finger Lakes,Cayuga,Springbrook Greens,221
+2019,Thousand Islands,St Lawrence,St Lawrence Golf Course,8019
 2019,Taconic,Dutchess,Staatsburgh SHS,55067
 2019,Central,Onondaga,State Park at the Fair *1,1329275
 2019,Palisades,Orange,Sterling Forest,309492
 2019,Central,Oneida,Steuben Memorial,5171
-2019,Thousand Islands,St Lawrence,St Lawrence Golf Course,8019
 2019,Finger Lakes,Steuben,Stony Brook St Pk,176169
 2019,Thousand Islands,Jefferson,Stony Creek,22460
 2019,Palisades,Rockland,Stony Point Battlefield,35533
