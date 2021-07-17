@@ -2,7 +2,6 @@ Year,OPRHP Region,County,Name,Attendance
 2019,Finger Lakes,Tompkins,Allan Treman Marina,355313
 2019,Allegany,Cattaraugus,Allegany Quaker Area,802727
 2019,Allegany,Cattaraugus,Allegany Red House Area,718483
-2019,Long Island,Suffolk,Amsterdam Beach,13860
 2019,Palisades,Orange/Rockland,Anthony Wayne,83463
 2019,Palisades,Orange/Rockland,Appalachian Trail,16146
 2019,Niagara,Niagara,Artpark,321427
@@ -182,8 +181,8 @@ Year,OPRHP Region,County,Name,Attendance
 2019,New York City,New York,Riverbank Rollr-Ice Rnks,446650
 2019,New York City,New York,Riverbank State Park,3020622
 2019,Finger Lakes,Tompkins,Robert H Treman St Pk,369121
-2019,Thousand Islands,St Lawrence,Robert Moses St Pk,114065
 2019,Long Island,Suffolk,Robert Moses St Pk,4269163
+2019,Thousand Islands,St Lawrence,Robert Moses St Pk,114065
 2019,New York City,Bronx,Roberto Clemente,339868
 2019,Thousand Islands,Jefferson,Rock Island,6898
 2019,Taconic,Westchester,Rockefeller Preserve,414211
@@ -231,7 +230,7 @@ Year,OPRHP Region,County,Name,Attendance
 2019,Central,Oneida,Verona Beach State Park,152681
 2019,Taconic,Dutchess/Ulster,Walkway Over The Hudson,621280
 2019,Long Island,Suffolk,Walt Whitman House,7053
-2019,Palisades,Orange,Washington Headquarters (including Tower of Victory),33280
+2019,Palisades,Orange,Washington Headquarters,33280
 2019,Thousand Islands,Jefferson,Waterson Point Docking,1613
 2019,Finger Lakes,Schuyler,Watkins Glen St Pk,1037138
 2019,Thousand Islands,Jefferson,Wehle State Park,84845
@@ -242,4 +241,4 @@ Year,OPRHP Region,County,Name,Attendance
 2019,Long Island,Suffolk,Wildwood State Park,447597
 2019,Thousand Islands,St Lawrence,Wilson Hill Boat Launch,8406
 2019,Niagara,Niagara,Wilson Tuscarora St Pk,218596
-2019,Niagara,Erie,Woodlawn,0
+2019,Niagara,Erie,Woodlawn Beach,0

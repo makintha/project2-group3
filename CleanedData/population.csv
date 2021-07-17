@@ -1,5 +1,5 @@
 County,Population
-Albany ,"305,506"
+,Population
 Allegany ,"46,091"
 Bronx ,"1,418,207"
 Broome ,"190,488"
@@ -60,4 +60,7 @@ Washington ,"61,204"
 Wayne ,"89,918"
 Westchester ,"967,506"
 Wyoming ,"39,859"
-Yates ,"24,913"
+"Source(s): U.S. Census Bureau, Vintage 2019 Population Estimates 
+ Powered by the U.S. Census Bureau
+ Data may contain sampling error. Sampling error and margin of errormay render some of the differences between geographies statistically insignificant.An 'X' entry indicates that either no sample observations or too few sample observations were available to compute an estimate.Note that an 'X' entry in other US Census Bureau tables could indicate a different issue.
+  ",

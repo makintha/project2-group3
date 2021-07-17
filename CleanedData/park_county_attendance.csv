@@ -1,0 +1,305 @@
+County,Attendance
+"('Albany', 2042    Albany
+3486    Albany
+3894    Albany
+Name: County, dtype: object)",692080
+"('Bronx', 3228    Bronx
+Name: County, dtype: object)",339868
+"('Broome', 757    Broome
+Name: County, dtype: object)",214454
+"('Broome/Delaware', 2878    Broome/Delaware
+Name: County, dtype: object)",48054
+"('Cattaraugus', 19    Cattaraugus
+37    Cattaraugus
+Name: County, dtype: object)",1521210
+"('Cayuga', 1266    Cayuga
+1302    Cayuga
+2424    Cayuga
+3650    Cayuga
+Name: County, dtype: object)",456058
+"('Chautauqua', 125     Chautauqua
+2258    Chautauqua
+2388    Chautauqua
+2554    Chautauqua
+3834    Chautauqua
+Name: County, dtype: object)",331539
+"('Chemung', 2478    Chemung
+2716    Chemung
+Name: County, dtype: object)",71675
+"('Chenango', 397     Chenango
+1954    Chenango
+Name: County, dtype: object)",75582
+"('Clinton', 1073    Clinton
+1610    Clinton
+2460    Clinton
+3062    Clinton
+3080    Clinton
+Name: County, dtype: object)",193747
+"('Columbia', 897     Columbia
+1003    Columbia
+1938    Columbia
+2316    Columbia
+2824    Columbia
+Name: County, dtype: object)",754603
+"('Delaware', 2078    Delaware
+Name: County, dtype: object)",1021
+"('Dutchess', 915     Dutchess
+2024    Dutchess
+2572    Dutchess
+3098    Dutchess
+3300    Dutchess
+3680    Dutchess
+Name: County, dtype: object)",409132
+"('Dutchess/Ulster', 3998    Dutchess/Ulster
+Name: County, dtype: object)",621280
+"('Erie', 201     Erie
+307     Erie
+487     Erie
+505     Erie
+1248    Erie
+2204    Erie
+4232    Erie
+Name: County, dtype: object)",1157497
+"('Essex', 1055    Essex
+2060    Essex
+Name: County, dtype: object)",85671
+"('Fulton', 2114    Fulton
+Name: County, dtype: object)",60354
+"('Genesee', 1091    Genesee
+Name: County, dtype: object)",79019
+"('Greene', 109     Greene
+1021    Greene
+Name: County, dtype: object)",85830
+"('Herkimer', 1776    Herkimer
+Name: County, dtype: object)",6000
+"('Jefferson', 343     Jefferson
+523     Jefferson
+631     Jefferson
+739     Jefferson
+1181    Jefferson
+1592    Jefferson
+2168    Jefferson
+2240    Jefferson
+2406    Jefferson
+2500    Jefferson
+3264    Jefferson
+3318    Jefferson
+3632    Jefferson
+3762    Jefferson
+4052    Jefferson
+4088    Jefferson
+4106    Jefferson
+4124    Jefferson
+Name: County, dtype: object)",951816
+"('Kings', 1232    Kings
+2482    Kings
+3594    Kings
+Name: County, dtype: object)",1721417
+"('Lewis', 4142    Lewis
+Name: County, dtype: object)",42067
+"('Livingston', 967    Livingston
+Name: County, dtype: object)",33469
+"('Livingston/Wyoming', 2352    Livingston/Wyoming
+Name: County, dtype: object)",841681
+"('Madison', 811     Madison
+2442    Madison
+2860    Madison
+Name: County, dtype: object)",381728
+"('Monore/Livingston/Wyoming/Allegany/Cattaraugus', 1466    Monore/Livingston/Wyoming/Allegany/Cattaraugus
+Name: County, dtype: object)",50133
+"('Monroe', 415     Monroe
+1199    Monroe
+1448    Monroe
+1650    Monroe
+1988    Monroe
+Name: County, dtype: object)",423010
+"('Montgomery', 3450    Montgomery
+Name: County, dtype: object)",89021
+"('Nassau', 271     Nassau
+433     Nassau
+1758    Nassau
+2132    Nassau
+3044    Nassau
+3944    Nassau
+3962    Nassau
+Name: County, dtype: object)",10895070
+"('New York', 1388    New York
+3120    New York
+3138    New York
+3156    New York
+Name: County, dtype: object)",3745091
+"('Niagara', 91      Niagara
+1147    Niagara
+1163    Niagara
+1370    Niagara
+1408    Niagara
+1520    Niagara
+2150    Niagara
+2752    Niagara
+3102    Niagara
+4160    Niagara
+4214    Niagara
+Name: County, dtype: object)",11613126
+"('Oneida', 1129    Oneida
+2914    Oneida
+3026    Oneida
+3708    Oneida
+3980    Oneida
+Name: County, dtype: object)",485021
+"('Onondaga', 861     Onondaga
+1628    Onondaga
+3686    Onondaga
+Name: County, dtype: object)",2595882
+"('Ontario', 595     Ontario
+1412    Ontario
+1794    Ontario
+1884    Ontario
+3628    Ontario
+Name: County, dtype: object)",223159
+"('Ontario/Seneca', 3558    Ontario/Seneca
+Name: County, dtype: object)",140148
+"('Orange', 1334    Orange
+1538    Orange
+1812    Orange
+2222    Orange
+2698    Orange
+2734    Orange
+3468    Orange
+3690    Orange
+3798    Orange
+4050    Orange
+Name: County, dtype: object)",504677
+"('Orange/Rockland', 55      Orange/Rockland
+73      Orange/Rockland
+183     Orange/Rockland
+1668    Orange/Rockland
+1686    Orange/Rockland
+1704    Orange/Rockland
+2334    Orange/Rockland
+3504    Orange/Rockland
+3926    Orange/Rockland
+Name: County, dtype: object)",3370053
+"('Orleans', 2280    Orleans
+2806    Orleans
+Name: County, dtype: object)",107579
+"('Oswego', 129     Oswego
+1352    Oswego
+2536    Oswego
+2990    Oswego
+3378    Oswego
+3522    Oswego
+Name: County, dtype: object)",287623
+"('Otsego', 289     Otsego
+613     Otsego
+1484    Otsego
+1502    Otsego
+Name: County, dtype: object)",411448
+"('Putnam', 843     Putnam
+1920    Putnam
+3840    Putnam
+Name: County, dtype: object)",791364
+"('Queens', 165     Queens
+1430    Queens
+Name: County, dtype: object)",1910819
+"('Rensselaer', 253     Rensselaer
+775     Rensselaer
+1037    Rensselaer
+1556    Rensselaer
+3432    Rensselaer
+Name: County, dtype: object)",528293
+"('Richmond', 879    Richmond
+Name: County, dtype: object)",47060
+"('Rockland', 361     Rockland
+1722    Rockland
+1830    Rockland
+1902    Rockland
+2788    Rockland
+2932    Rockland
+3282    Rockland
+3780    Rockland
+3858    Rockland
+Name: County, dtype: object)",1215455
+"('Saratoga', 1574    Saratoga
+2662    Saratoga
+2950    Saratoga
+3396    Saratoga
+3428    Saratoga
+Name: County, dtype: object)",3580490
+"('Schoharie', 2518    Schoharie
+2590    Schoharie
+Name: County, dtype: object)",184064
+"('Schuyler', 4070    Schuyler
+Name: County, dtype: object)",1037138
+"('Seneca', 379     Seneca
+685     Seneca
+1109    Seneca
+2370    Seneca
+3354    Seneca
+Name: County, dtype: object)",377593
+"('St Lawrence', 325     St Lawrence
+703     St Lawrence
+721     St Lawrence
+949     St Lawrence
+1215    St Lawrence
+1848    St Lawrence
+2006    St Lawrence
+3193    St Lawrence
+3726    St Lawrence
+4196    St Lawrence
+Name: County, dtype: object)",378091
+"('Steuben', 1970    Steuben
+3022    Steuben
+3744    Steuben
+Name: County, dtype: object)",194500
+"('Suffolk', 147     Suffolk
+235     Suffolk
+469     Suffolk
+559     Suffolk
+577     Suffolk
+649     Suffolk
+667     Suffolk
+931     Suffolk
+985     Suffolk
+1646    Suffolk
+1740    Suffolk
+1866    Suffolk
+2626    Suffolk
+2644    Suffolk
+2680    Suffolk
+2770    Suffolk
+2896    Suffolk
+3194    Suffolk
+3336    Suffolk
+3578    Suffolk
+3816    Suffolk
+4016    Suffolk
+4178    Suffolk
+Name: County, dtype: object)",15976065
+"('Sullivan', 2298    Sullivan
+Name: County, dtype: object)",11794
+"('Tompkins', 1       Tompkins
+541     Tompkins
+3174    Tompkins
+3876    Tompkins
+Name: County, dtype: object)",1627981
+"('Ulster', 451     Ulster
+2608    Ulster
+3372    Ulster
+3540    Ulster
+Name: County, dtype: object)",533757
+"('Washington', 2276    Washington
+Name: County, dtype: object)",8588
+"('Wayne', 219    Wayne
+793    Wayne
+Name: County, dtype: object)",80599
+"('Westchester', 1284    Westchester
+2096    Westchester
+2842    Westchester
+2968    Westchester
+2972    Westchester
+3246    Westchester
+Name: County, dtype: object)",2351019
+"('Wyoming', 3596    Wyoming
+Name: County, dtype: object)",27031
+"('Yates', 2186    Yates
+Name: County, dtype: object)",116615
