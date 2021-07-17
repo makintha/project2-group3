@@ -53,10 +53,6 @@ Year,OPRHP Region,County,Facility,Attendance
 2005,Allegany,Cattaraugus,Allegany Red House Area,755990
 2004,Allegany,Cattaraugus,Allegany Red House Area,761212
 2003,Allegany,Cattaraugus,Allegany Red House Area,754291
-2020,Long Island,Suffolk,Amsterdam Beach,22215
-2019,Long Island,Suffolk,Amsterdam Beach,13860
-2018,Long Island,Suffolk,Amsterdam Beach,14994
-2017,Long Island,Suffolk,Amsterdam Beach,12000
 2020,Palisades,Orange/Rockland,Anthony Wayne,79451
 2019,Palisades,Orange/Rockland,Anthony Wayne,83463
 2018,Palisades,Rockland,Anthony Wayne,70411
@@ -4052,8 +4048,8 @@ Year,OPRHP Region,County,Facility,Attendance
 2005,Palisades,Orange,Washington Headquarters,19423
 2004,Palisades,Orange,Washington Headquarters,17914
 2003,Palisades,Orange,Washington Headquarters,21796
-2020,Palisades,Orange,Washington Headquarters (including Tower of Victory),14798
-2019,Palisades,Orange,Washington Headquarters (including Tower of Victory),33280
+2020,Palisades,Orange,Washington Headquarters,14798
+2019,Palisades,Orange,Washington Headquarters,33280
 2020,Thousand Islands,Jefferson,Waterson Point Docking,1804
 2019,Thousand Islands,Jefferson,Waterson Point Docking,1613
 2018,Thousand Islands,Jefferson,Waterson Point Docking,1848
@@ -4234,8 +4230,9 @@ Year,OPRHP Region,County,Facility,Attendance
 2005,Niagara,Niagara,Wilson Tuscarora St Pk,236382
 2004,Niagara,Niagara,Wilson Tuscarora St Pk,175385
 2003,Niagara,Niagara,Wilson Tuscarora St Pk,191841
-2020,Niagara,Erie,Woodlawn,148720
-2019,Niagara,Erie,Woodlawn,0
+2020,Niagara,Erie,Woodlawn Beach,0
+2019,Niagara,Erie,Woodlawn Beach,0
+2018,Niagara,Erie,Woodlawn Beach,0
 2016,Niagara,Erie,Woodlawn Beach,0
 2015,Niagara,Erie,Woodlawn Beach,0
 2014,Niagara,Erie,Woodlawn Beach,146000
