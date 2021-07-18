@@ -23,12 +23,16 @@ Chart of the yearly attendance of each park (Interactive)
 
 <h4><b>Demo of Webpage</b></h4>
 Main Landing Page - About the Project *Insert Image here*
+![Alt text](/path/to/img.jpg "Optional title")
 
 Interactive Map and Interactive Charts (2 Pages) *Insert Image here*
+![Alt text](/path/to/img.jpg "Optional title")
 
 Pop up page - About Us ( All of the Collaborators and their profile) *Insert Image here*
+![Alt text](/path/to/img.jpg "Optional title")
 
 Extras - Data Page and Summary/Analysis Page *Insert Image here*
+![Alt text](/path/to/img.jpg "Optional title")
 
 <h4><b>Links</b></h4>
 
