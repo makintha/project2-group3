@@ -6,6 +6,8 @@ from sqlalchemy import create_engine, func, inspect
 import numpy as np
 import os
 
+from sqlalchemy.sql.expression import true
+
 
 #################################################
 # Database Setup
@@ -34,23 +36,25 @@ app = Flask(__name__)
 # # Flask Routes
 # ################################################
 
-@app.route("/")
-def welcome():
-    return (
-        f"Welcome to the Homepage of API!<br/>"
-        f"Available Routes:<br/>"
-        f" <br/>"
-        f"/api/v1.0/"
-        f" <br/>"
-        f"/api/v1.0/year=<year><br/>"
-        f"/api/v1.0/percounty/year=<year><br/>"
-        f"/api/v1.0/attendance"
-    )
+# @app.route("/")
+# def welcome():
+#     return (
+#         f"Welcome to the Homepage of API!<br/>"
+#         f"Available Routes:<br/>"
+#         f" <br/>"
+#         f"/api/v1.0/"
+#         f" <br/>"
+#         f"/api/v1.0/year=<year><br/>"
+#         f"/api/v1.0/percounty/year=<year><br/>"
+#         f"/api/v1.0/attendance"
+#         f"/api/v1.0/tot_attendance"
+#         f"/api/v1.0/stpark"  
+#     )
 # Route to render index.html template using data from Mongo
 @app.route("/")
 def home():
     # Return template and data
-    return render_template("index.html")
+    return render_template("index.html", mars={})
 
 @app.route("/api/v1.0/")
 def create_API():
@@ -131,7 +135,7 @@ def attendance():
     # Create our session (link) from Python to the DB
     session = Session(engine)
 
-    """Return a list of all passenger names"""
+    """Return a list for Facility Data Yearly from 2003"""
     # Query all passengers
     results = session.query(Attn.Facility, func.count(Attn.Attendance))\
         .group_by(Attn.Facility).all()
@@ -141,8 +145,7 @@ def attendance():
     facilities = []
     for fac, count_no in results:
         facilities.append(fac)
-    # facilities.append(results)
-    # print(facilities, len(facilities))
+
     all_data = []
     for facility in facilities:
         results = session.query(Attn.County, Attn.Attendance, Attn.Year)\
@@ -161,17 +164,68 @@ def attendance():
     return jsonify(all_data)
 
 
+# Attendance full_list
+@app.route("/api/v1.0/tot_attendance")
+def tot_attendance():
 
-    # all_data=[]
-    # for fac, attn in results:
-    #     # print(fac)
-    #     Facilities={}
-    #     Facilities['facility'] = fac
-    #     all_data.append(Facilities)      
+    # Create our session (link) from Python to the DB
+    session = Session(engine)
 
-    # print(all_data)
+    """Return a list for Facility Data Yearly from 2003"""
+    # Query all passengers
+    results = session.query(Attn.Facility, func.sum(Attn.Attendance))\
+        .group_by(Attn.Facility).order_by(func.sum(Attn.Attendance).desc()).all()
+
+    # print(results)
+    session.close()
+    Total_sum = []
+    features = {}
+    for fac, summ in results[:20]:
+        # Total.append(fac)
+        Total_sum.append(fac)
+
+    all_data = []
+    for facility in Total_sum:
+        results = session.query(Attn.County, Attn.Attendance, Attn.Year)\
+        .filter(Attn.Facility == facility).all()
+        session.close()
+        features = {}
+        features['name'] = facility
+        features['year'] = []
+        features['attendance'] = []
+        for county, attn, yr in results:
+            features['county'] = county
+            features['year'].append(yr)
+            features['attendance'].append(attn)
+        all_data.append(features)
+
+    return jsonify(all_data)
 
 
+# Attendance full_list
+@app.route("/api/v1.0/stpark")
+def no_stPk():
+
+    # Create our session (link) from Python to the DB
+    session = Session(engine)
+
+    """Return a list for Facility Data Yearly from 2003"""
+    # Query all passengers
+    results = session.query(Attn.County, func.count(Attn.Facility))\
+        .group_by(Attn.County).all()
+
+    print(len(results))
+    session.close()
+    all_data = []
+
+    for county, summ in results:
+        features = {}
+        # Total.append(fac)
+        features['County'] = county
+        features['No_State_Park'] = summ
+        all_data.append(features)
+
+    return jsonify(all_data)
 
 
 if __name__ == "__main__":
