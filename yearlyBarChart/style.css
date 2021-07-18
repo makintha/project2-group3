@@ -1,0 +1,14 @@
+#yeardata{
+ position: absolute;
+ display:block;
+ right : 50px !important; 
+ background-color: rgba(201, 221, 148, 0.3) ;
+ font-size: 10px;
+}
+
+
+canvas{
+    width: 100% !important;
+    height: 100% !important;
+
+}
