@@ -21,7 +21,7 @@ To show the population of each County in the state and their income level (Media
 A heatmap of the park data
 Chart of the yearly attendance of each park (Interactive)
 
-Webpages 
+<h4><b>Demo of Webpage</b></h4>
 Main Landing Page - About the Project *Insert Image here*
 
 Interactive Map and Interactive Charts (2 Pages) *Insert Image here*
@@ -30,7 +30,8 @@ Pop up page - About Us ( All of the Collaborators and their profile) *Insert Ima
 
 Extras - Data Page and Summary/Analysis Page *Insert Image here*
 
-Links
+<h4><b>Links</b></h4>
+
 State Park Site:
 http://nysparks.com/parks/142/details.aspx
 
