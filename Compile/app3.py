@@ -17,7 +17,7 @@ path = os.path.dirname(os.path.abspath(__file__))
 # print(path)
 print(os.getcwd())
 
-engine = create_engine(f"sqlite:///{path}/newyork.db")
+engine = create_engine(f"sqlite:///{path}/static/newyork.db")
 
 # reflect an existing database into a new model
 Base = automap_base()
@@ -52,7 +52,18 @@ app = Flask(__name__)
 @app.route("/")
 def home():
     # Return template and data
-    return render_template("index.html", mars={})
+    return render_template("index.html")
+
+@app.route("/interactive_county_map")
+def interactive():
+    # Return template and data
+    return render_template("interactive_county_map.html")
+
+@app.route("/2019_dynamic_scatter_plot")
+def scatter():
+    # Return template and data
+    return render_template("2019_dynamic_scatter_plot.html")
+
 
 @app.route("/api/v1.0/")
 def create_API():
