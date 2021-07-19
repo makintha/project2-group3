@@ -94,7 +94,7 @@ function updateToolTip(chosenXAxis, circlesGroup) {
 }
 
 // Retrieve data from the CSV file and execute everything below
-d3.csv("county_attendance_income_pop.csv").then(function(countyData, err) {
+d3.json("/api/v1.0/").then(function(countyData, err) {
   if (err) throw err;
 
   // parse data

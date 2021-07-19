@@ -1,5 +1,5 @@
 //initialise data
-d3.csv("../CleanedData/yearly_attendance.csv").then( function(data) {
+d3.json("/api/v1.0/yearly_attendance").then( function(data) {
 
     var yeardata = document.getElementById('yeardata');
 
@@ -21,9 +21,9 @@ d3.csv("../CleanedData/yearly_attendance.csv").then( function(data) {
     var attendance = [];
 
     data.forEach(function (facil){
-        if(facil.Year == yeardata && facil.Attendance > 300000){
-            facilities.push(facil.Facility);
-            attendance.push(facil.Attendance);
+        if(facil.year == yeardata && facil.attendance > 300000){
+            facilities.push(facil.facility);
+            attendance.push(facil.attendance);
      
         } 
 
