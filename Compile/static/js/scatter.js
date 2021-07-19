@@ -24,7 +24,7 @@ var chartGroup = svg.append("g")
   .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
 // Initial Params
-var chosenXAxis = "Population";
+var chosenXAxis = "population";
 
 // function used for updating x-scale var upon click on axis label
 function xScale(countyData, chosenXAxis) {
@@ -66,18 +66,18 @@ function updateToolTip(chosenXAxis, circlesGroup) {
 
   var label;
 
-  if (chosenXAxis === "Population") {
-    label = "Population:";
+  if (chosenXAxis === "population") {
+    label = "population:";
   }
   else {
-    label = "Income:";
+    label = "income:";
   }
 
   var toolTip = d3.tip()
     .attr("class", "tooltip")
     .offset([0, 75])
     .html(function(d) {
-      return (`<b><u>${d.County}</u></b><br>${label} ${d[chosenXAxis]}`);
+      return (`<b><u>${d.county}</u></b><br>${label} ${d[chosenXAxis]}`);
     });
 
   circlesGroup.call(toolTip);
@@ -99,9 +99,9 @@ d3.json("/api/v1.0/").then(function(countyData, err) {
   console.log(countyData)
   // parse data
   countyData.forEach(function(data) {
-    data.Population = +data.Population;
-    data.Attendance = +data.Attendance;
-    data.Income = +data.Income;
+    data.population = +data.population;
+    data.attendance = +data.attendance;
+    data.income = +data.income;
   });
 
   // xLinearScale function above csv import
