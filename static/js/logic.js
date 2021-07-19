@@ -89,37 +89,33 @@ function clickFeature(event) {
   myMap.fitBounds(event.target.getBounds())
 }
 
-
 // Grabbing the GeoJSON data..
 d3.json(boundaryLink).then(function(data) {
   
   attendanceCounty.forEach(county => {
     data.features.forEach(boundary => {
       if (boundary.properties.name == county.county) {
-        boundary.properties.color = county.color
+        boundary.properties.color = county.color,
+        boundary.properties.attendance = county.attendance
       }
-      // console.log(boundary.properties.color)
     })    
   })
   
-  // console.log(data)
-  // console.log(data.features)
+  console.log(data.features)
 
   L.geoJson(data, {  
 
     // Style each feature (in this case a neighborhood)
     style: function(feature) {
-
       return {
         color: "white",
-        // Call the getColor function to decide which color to color our county (color based on state park attendance in that county)
         fillColor:  feature.properties.color,      
         fillOpacity: 0.8,
         dashArray: '3',
         weight: 0.8
-      };          
+      };             
     },
-       
+   
     // Called on each feature
     onEachFeature: function(feature, layer) {
       // Set mouse events to change map styling
@@ -129,7 +125,29 @@ d3.json(boundaryLink).then(function(data) {
         click: clickFeature
       });
       // Giving each feature a pop-up with information pertinent to it
-      layer.bindPopup("<h2>" + feature.properties.name + "</h2>")
+      layer.bindPopup(`<h2>${feature.properties.name}</h2><hr><h3>Attendance: ${feature.properties.attendance}</h3>`)
     }
   }).addTo(myMap);
 });
+
+// Create Legend
+// ===========================
+// Create marker legend and add to map
+var legend = L.control({position: "bottomright"});
+    
+legend.onAdd = function() {  
+    var div = L.DomUtil.create('div', 'legend');
+    labels = ['<strong>Number of<br>State Parks</strong>'],
+    categories = ['0', '1 - 50000', '50001 - 100000', '100001 - 500000', '500001 - 1000000',  '1000001 - 2000000', '2000001 - 5000000', '> 5000000'],
+    colors = ["#74c476", "#fcbba1", "#fc9272", "#fb6a4a", "#ef3b2c", "#cb181d", "#a50f15", "#67000d"]
+
+    for (var i = 0; i < categories.length; i++) {
+        div.innerHTML += labels[0]  + '<hr>'
+        for (var i = 0; i < categories.length; i++) {
+            div.innerHTML += '<i class="leg" style="background:' + colors[i] + '"></i>' + categories[i] + "<br>";
+        }
+    return div;
+    };
+};
+legend.addTo(myMap);
+
