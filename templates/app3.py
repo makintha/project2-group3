@@ -14,10 +14,10 @@ from sqlalchemy.sql.expression import true
 # Database Setup
 #################################################
 path = os.path.dirname(os.path.abspath(__file__))
-# print(path)
-print(os.getcwd())
+print(path)
+# print(os.getcwd())
 
-engine = create_engine(f"sqlite:///{path}/newyork.db")
+engine = create_engine(f"sqlite:///{path}/assets/Data/newyork.db")
 
 # reflect an existing database into a new model
 Base = automap_base()
@@ -52,15 +52,14 @@ app = Flask(__name__)
 @app.route("/")
 def home():
     # Return template and data
-    return render_template("index.html", mars={})
+    return render_template("index.html")
 
-# Combined Data
 @app.route("/api/v1.0/")
 def create_API():
     # Create our session (link) from Python to the DB
     session = Session(engine)
 
-    """Return a list combined data"""
+    """Return a list county data"""
     # Query all county data
     results = session.query(Counties.County, Counties.Attendance, Counties.Income, Counties.Population,).all()
 
