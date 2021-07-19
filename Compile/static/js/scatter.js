@@ -144,14 +144,14 @@ d3.json("/api/v1.0/").then(function(countyData, err) {
   var populationLabel = labelsGroup.append("text")
     .attr("x", 0)
     .attr("y", 20)
-    .attr("value", "Population") // value to grab for event listener
+    .attr("value", "population") // value to grab for event listener
     .classed("active", true)
-    .text("Population");
+    .text("population");
 
   var incomeLabel = labelsGroup.append("text")
     .attr("x", 0)
     .attr("y", 40)
-    .attr("value", "Income") // value to grab for event listener
+    .attr("value", "income") // value to grab for event listener
     .classed("inactive", true)
     .text("Median Income");
 
@@ -190,7 +190,7 @@ d3.json("/api/v1.0/").then(function(countyData, err) {
         circlesGroup = updateToolTip(chosenXAxis, circlesGroup);
 
         // changes classes to change bold text
-        if (chosenXAxis === "Income") {
+        if (chosenXAxis === "income") {
           incomeLabel
             .classed("active", true)
             .classed("inactive", false);
