@@ -109,7 +109,7 @@ d3.json("/api/v1.0/").then(function(countyData, err) {
 
   // Create y scale function
   var yLinearScale = d3.scaleLinear()
-    .domain([0, d3.max(countyData, d => d.Attendance)])
+    .domain([0, d3.max(countyData, d => d.attendance)])
     .range([height, 0]);
 
   // Create initial axis functions
@@ -146,7 +146,7 @@ d3.json("/api/v1.0/").then(function(countyData, err) {
     .attr("y", 20)
     .attr("value", "population") // value to grab for event listener
     .classed("active", true)
-    .text("population");
+    .text("Population");
 
   var incomeLabel = labelsGroup.append("text")
     .attr("x", 0)
