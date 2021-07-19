@@ -132,7 +132,7 @@ d3.json("/api/v1.0/").then(function(countyData, err) {
     .enter()
     .append("circle")
     .attr("cx", d => xLinearScale(d[chosenXAxis]))
-    .attr("cy", d => yLinearScale(d.Attendance))
+    .attr("cy", d => yLinearScale(d.attendance))
     .attr("r", 10)
     .attr("fill", "green")
     .attr("opacity", "0.5");
