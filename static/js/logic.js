@@ -15,10 +15,10 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 }).addTo(myMap);
 
 // Set link to get the geojson data of county boundaries
-var boundaryLink = "static/data/New York State us-county-boundaries_GEOJSON.json";
+// var boundaryLink = "static/data/New York State us-county-boundaries_GEOJSON.json";
 
 // Set link to get state park attendance by county
-var attendanceLink = "static/data/cleaned_county_attendance_income_pop.csv";
+// var attendanceLink = "static/data/cleaned_county_attendance_income_pop.csv";
 
 //  Create color function
 function getColor(csvData) {  
@@ -46,8 +46,8 @@ function getColor(csvData) {
 attendanceCounty = []
 
 // Loop through .csv and pull out county and attendance data and assign color using the color function
-d3.csv(attendanceLink).then(function(data) {
-
+d3.json("/api/v1.0/").then(function(data) {
+  console.log(data)
   for (var i = 0; i < data.length; i++) {
   
     county = data[i].County
@@ -90,7 +90,7 @@ function clickFeature(event) {
 }
 
 // Grabbing the GeoJSON data..
-d3.json(boundaryLink).then(function(data) {
+d3.json("/api/v1.0/GeoJSON/").then(function(data) {
   
   attendanceCounty.forEach(county => {
     data.features.forEach(boundary => {

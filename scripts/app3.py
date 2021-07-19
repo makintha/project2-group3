@@ -26,7 +26,7 @@ Base.prepare(engine, reflect=True)
 # print(Base.classes.keys())
 # Save reference to the table
 Counties = Base.classes.county_data
-Attn = Base.classes.attendance_data
+Attn = Base.classes.attendance_dataz
 Yr = Base.classes.yearly_attendance_data
 ################################################
 # Flask Setup
