@@ -209,7 +209,7 @@ def no_stPk():
     # Create our session (link) from Python to the DB
     session = Session(engine)
 
-    """Return a list for Facility Data Yearly from 2003"""
+    """Return a list for No. of St Park percounty"""
     # Query all passengers
     results = session.query(Attn.County, func.count(Attn.Facility))\
         .group_by(Attn.County).all()
