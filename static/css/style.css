@@ -28,3 +28,15 @@ html {
     margin-right: 10px;
     text-align: center;
   }
+
+  .legend {
+    padding: 4px 4px;
+    border-radius: 3px;
+    background-color: white;
+    line-height: 20px;
+    color: black;
+    width: auto;
+    text-align: center;
+    font-size: 12px;
+    opacity: 0.8;
+  }
