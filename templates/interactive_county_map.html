@@ -20,7 +20,7 @@
 						<div class="row">
 							<div class="col-12">
 
-								<h1><a href="index.html" id="logo"><img src="images\New_York_State_Image.jpg" 
+								<h1><a href="index.html" id="logo"><img src="..\images\New_York_State_Image.jpg" 
 									style="float:left; margin:50px 0px -20px 0px; cursor:pointer; cursor:hand; border:0" 
 									width="150" height="100"  
 									alt="New York State Image" /></a>
@@ -51,35 +51,9 @@
 									<section>
 										<header>
 											<h2>New York New York (State Parks)</h2>
-											<h3>A generic three column layout</h3>
+											
 										</header>
-										<p>
-											Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam metus, congue
-											vel suscipit ut, dignissim non risus. Vestibulum ante est, fringilla nec placerat
-											eu, vestibulum vitae diam. Integer eget egestas eros. Duis enim erat, mollis quis
-											lacinia eget, blandit nec ipsum. Donec vitae turpis ipsum. Aliquam mauris libero,
-											sagittis in eleifend at, mattis imperdiet velit. Donec urna risus, rutrum molestie
-											varius ac, lacinia sit amet augue. Nam ultrices elementum eros.
-										</p>
-										<p>
-											Sed faucibus viverra ligula, non varius magna semper vitae. Donec eu justo ut ipsum
-											hendrerit congue nec eu risus. Cum sociis natoque penatibus et magnis dis parturient
-											montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing
-											egestas tempus. Cras convallis odio sit amet risus convallis porttitor. Integer
-											vehicula fermentum ligula at pretium. Suspendisse semper iaculis eros, eu aliquam
-											justo imperdiet vel. Proin nec dictum mi. Duis commodo enim non tellus interdum
-											elit. Suspendisse fermentum adipiscing nisi, a tempor libero malesuada at. Morbi
-											lacinia dui adipiscing risus eleifend tincidunt. Proin eu mauris eu tellus eleifend
-											hendrerit.
-										</p>
-										<p>
-											Mauris sit amet tellus urna. In facilisis, tortor vitae ultricies egestas, odio
-											mi rhoncus arcu, quis euismod felis felis et velit. Mauris varius consectetur erat
-											egestas tempus. Cras convallis odio sit amet risus convallis porttitor. Integer
-											vehicula fermentum ligula at pretium. Suspendisse semper iaculis eros, eu aliquam
-											justo imperdiet vel. Proin nec dictum mi. Duis commodo enim non tellus interdum
-											iaculis. Phasellus ultrices diam sit amet orci lacinia sed consequat dui auctor.
-										</p>
+										<div id="map"></div>
 									</section>
 
 							</div>
@@ -95,11 +69,19 @@
 		</div>
 
 		<!-- Scripts -->
+		 <!-- Leaflet JS -->
+			<script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+			integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+			crossorigin=""></script>
+			<!-- API key -->
+			<script type="text/javascript" src="static/js/config.js"></script>
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/browser.min.js"></script>
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<!-- JS  -->
+			<script type="text/javascript" src="static/js/logic.js"></script>
 
 	</body>
 </html>
