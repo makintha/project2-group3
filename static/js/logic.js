@@ -38,7 +38,7 @@ function getColor(csvData) {
     case (csvData.Attendance > 1):                       
       return '#fcbba1';
     case (csvData.Attendance < 1):                       
-      return '#74c476';
+      return '#ffffff';
   }
 }
 
@@ -55,7 +55,7 @@ d3.csv(attendanceLink).then(function(data) {
     color = getColor(data[i])   
 
     attendanceCounty.push({"county":county, "attendance":attendance, "color":color});
-}
+  }
 })
 
 // Log the array with new data
@@ -138,8 +138,8 @@ var legend = L.control({position: "bottomright"});
 legend.onAdd = function() {  
     var div = L.DomUtil.create('div', 'legend');
     labels = ['<strong>Number of<br>State Parks</strong>'],
-    categories = ['0', '1 - 50000', '50001 - 100000', '100001 - 500000', '500001 - 1000000',  '1000001 - 2000000', '2000001 - 5000000', '> 5000000'],
-    colors = ["#74c476", "#fcbba1", "#fc9272", "#fb6a4a", "#ef3b2c", "#cb181d", "#a50f15", "#67000d"]
+    categories = ['0 or no data', '1 - 50000', '50001 - 100000', '100001 - 500000', '500001 - 1000000',  '1000001 - 2000000', '2000001 - 5000000', '> 5000000'],
+    colors = ["#ffffff", "#fcbba1", "#fc9272", "#fb6a4a", "#ef3b2c", "#cb181d", "#a50f15", "#67000d"]
 
     for (var i = 0; i < categories.length; i++) {
         div.innerHTML += labels[0]  + '<hr>'
@@ -150,4 +150,3 @@ legend.onAdd = function() {
     };
 };
 legend.addTo(myMap);
-
