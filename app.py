@@ -125,7 +125,7 @@ def yr_attendance():
 # GEOJSON
 @app.route("/api/v1.0/GeoJSON")
 def geoJSON():
-    with open(f'Compile/static/data/New York State us-county-boundaries_GEOJSON.json') as f:
+    with open(f'static/data/New York State us-county-boundaries_GEOJSON.json') as f:
         data = json.load(f)
 
     # Return template and data
