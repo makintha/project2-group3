@@ -59,6 +59,11 @@ def interactive():
     # Return template and data
     return render_template("map.html")
 
+@app.route("/yearly_attendance")
+def yearlyatt():
+    # Return template and data
+    return render_template("yearly_attendance.html") 
+
 @app.route("/2019_dynamic_scatter_plot")
 def scatter():
     # Return template and data
