@@ -64,6 +64,11 @@ def scatter():
     # Return template and data
     return render_template("2019_dynamic_scatter_plot.html")
 
+@app.route("/mildonuts")
+def donuts():
+    # Return template and data
+    return render_template("mildonuts.html")
+
 
 @app.route("/api/v1.0/")
 def create_API():

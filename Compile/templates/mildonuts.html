@@ -2,11 +2,11 @@
 
 <html>
 	<head>
-		<title>Attendance Population Income</title>
+		<title>Million Attentances</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="../static/css/main.css" />
-		<link rel="stylesheet" href="../static/css/scatterstyle.css" /> 
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 		    <!-- Leaflet CSS -->
 		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
 		integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
@@ -52,10 +52,12 @@
 								<!-- Main Content -->
 									<section>
 										<header>
-											<h2>State Park Visits according to Population and Median Income</h2>
+											<h2>State Park Attendance with More than 1 Million Attendances</h2>
 											
 										</header>
-										 <div class="chart"></div>
+										<div class="row">
+     										 <div id="donuts" class="col">Donuts</div>
+										 </div>
 									</section>
 
 							</div>
@@ -89,7 +91,7 @@
   			<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   			<script src="https://d3js.org/d3.v5.min.js"></script>
   			<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
-  			<script type="text/javascript" src="../static/js/scatter.js"></script>
+  			<script type="text/javascript" src="../static/js/donuts.js"></script>
 
 	</body>
 </html>
