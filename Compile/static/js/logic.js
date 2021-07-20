@@ -142,11 +142,11 @@ d3.json("/api/v1.0/GeoJSON").then(function(data) {
 // Create Legend
 // ===========================
 // Create marker legend and add to map
-var legend = L.control({position: "bottomright"});
+var legend = L.control({position: "topright"});
     
 legend.onAdd = function() {  
     var div = L.DomUtil.create('div', 'legend');
-    labels = ['<strong>Number of<br>State Parks</strong>'],
+    labels = ['<strong>Attendance</strong>'],
     categories = ['0 or no data', '1 - 50000', '50001 - 100000', '100001 - 500000', '500001 - 1000000',  '1000001 - 2000000', '2000001 - 5000000', '> 5000000'],
     colors = ["#ffffff", "#fcbba1", "#fc9272", "#fb6a4a", "#ef3b2c", "#cb181d", "#a50f15", "#67000d"]
 
