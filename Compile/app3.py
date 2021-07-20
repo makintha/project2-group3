@@ -54,10 +54,10 @@ def home():
     # Return template and data
     return render_template("index.html")
 
-@app.route("/interactive_county_map")
+@app.route("/map")
 def interactive():
     # Return template and data
-    return render_template("interactive_county_map.html")
+    return render_template("map.html")
 
 @app.route("/2019_dynamic_scatter_plot")
 def scatter():

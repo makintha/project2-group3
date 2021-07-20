@@ -1,3 +1,8 @@
+d3.json("/api/v1.0/GeoJSON").then(data => {
+  console.log(data)
+})
+
+
 // Creating map object
 var myMap = L.map("map", {
   center: [42.8, -75],
@@ -23,21 +28,21 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 //  Create color function
 function getColor(csvData) {  
   switch (true) {
-    case (csvData.Attendance > 5000000):    
+    case (csvData.attendance > 5000000):    
       return '#67000d';
-    case (csvData.Attendance > 2000000):    
+    case (csvData.attendance > 2000000):    
       return '#a50f15';
-    case  (csvData.Attendance > 1000000):    
+    case  (csvData.attendance > 1000000):    
       return '#cb181d';
-    case (csvData.Attendance > 500000):    
+    case (csvData.attendance > 500000):    
       return '#ef3b2c';
-    case (csvData.Attendance > 100000):    
+    case (csvData.attendance > 100000):    
       return '#fb6a4a';
-    case (csvData.Attendance > 50000):    
+    case (csvData.attendance > 50000):    
       return '#fc9272';
-    case (csvData.Attendance > 1):                       
+    case (csvData.attendance > 1):                       
       return '#fcbba1';
-    case (csvData.Attendance < 1):                       
+    case (csvData.attendance < 1):                       
       return '#ffffff';
   }
 }
@@ -47,11 +52,11 @@ attendanceCounty = []
 
 // Loop through .csv and pull out county and attendance data and assign color using the color function
 d3.json("/api/v1.0/").then(function(data) {
-  console.log(data)
+  // console.log(data)
   for (var i = 0; i < data.length; i++) {
   
-    county = data[i].County
-    attendance = data[i].Attendance
+    county = data[i].county
+    attendance = data[i].attendance
     color = getColor(data[i])   
 
     attendanceCounty.push({"county":county, "attendance":attendance, "color":color});
@@ -59,7 +64,7 @@ d3.json("/api/v1.0/").then(function(data) {
 })
 
 // Log the array with new data
-console.log(attendanceCounty);
+// console.log(attendanceCounty);
 
 
 // When a user's mouse touches a map feature, the mouseover event calls this function, that feature's opacity changes to 90% so that it stands out
@@ -89,8 +94,12 @@ function clickFeature(event) {
   myMap.fitBounds(event.target.getBounds())
 }
 
+
+
+
+
 // Grabbing the GeoJSON data..
-d3.json("/api/v1.0/GeoJSON/").then(function(data) {
+d3.json("/api/v1.0/GeoJSON").then(function(data) {
   
   attendanceCounty.forEach(county => {
     data.features.forEach(boundary => {
