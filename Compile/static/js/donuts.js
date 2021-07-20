@@ -1,6 +1,6 @@
 //initialise the data
-d3.json("/api/v1.0/yearly_attendance").then( function(data) {
-
+d3.json("/api/v1.0/yearly_attendance").then(function(data) {
+  console.log(data);
     years = [];
         for (var y = 2015; y < 2021; y++) {
             years.push(y)
@@ -16,7 +16,7 @@ d3.json("/api/v1.0/yearly_attendance").then( function(data) {
     
     //muiltiple to append to list
         data.forEach(function (facil){
-            if(facil.Year == 2015 && facil.attendance > 1000000){
+            if(facil.year == 2015 && facil.attendance > 1000000){
                 facil2015.push(facil.facility);
                 att2015.push(facil.attendance);
             } 
@@ -24,28 +24,28 @@ d3.json("/api/v1.0/yearly_attendance").then( function(data) {
         })
     
         data.forEach(function (facil){
-            if(facil.Year == 2016 && facil.attendance > 1000000){
+            if(facil.year == 2016 && facil.attendance > 1000000){
                 facil2016.push(facil.facility);
                 att2016.push(facil.attendance);
             } 
     
         })
         data.forEach(function (facil){
-            if(facil.Year == 2017 && facil.attendance > 1000000){
+            if(facil.year == 2017 && facil.attendance > 1000000){
                 facil2017.push(facil.facility);
                 att2017.push(facil.attendance);
             } 
     
         })
         data.forEach(function (facil){
-            if(facil.Year == 2018 && facil.attendance > 1000000){
+            if(facil.year == 2018 && facil.attendance > 1000000){
                 facil2018.push(facil.facility);
                 att2018.push(facil.attendance);
             } 
     
         })
         data.forEach(function (facil){
-            if(facil.Year == 2019 && facil.attendance > 1000000){
+            if(facil.year == 2019 && facil.attendance > 1000000){
                 facil2019.push(facil.facility);
                 att2019.push(facil.attendance);
             } 
@@ -53,7 +53,7 @@ d3.json("/api/v1.0/yearly_attendance").then( function(data) {
         })
     
         data.forEach(function (facil){
-            if(facil.Year == 2020 && facil.attendance > 1000000){
+            if(facil.year == 2020 && facil.attendance > 1000000){
                 facil2020.push(facil.facility);
                 att2020.push(facil.attendance);
             } 
@@ -181,7 +181,7 @@ var data = [{
       },
     ],
     height: 600,
-    width: 960,
+    width: 800,
     margin: {
         l: -30,
         r: -10,
