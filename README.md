@@ -10,10 +10,14 @@ Limited to New York State State Park’s and Dataset time to set within 2019.
 State Park attendance data to span from 2003 to 2020
 
 <h4><b>Questions to Answer</b></h4>
-Where is the highest concentration of state parks in New York State?
-What are the most popular parks in New York State?
-Income Level vs types of facilities offered in the state park?
-Identify State Parks that overlays to another county
+
+- Which State Parks in New York State is the most popular?
+
+- Which County is the Popular Park Located?
+
+- Attendance of Park Vs. County’s Population and Median Income
+
+- Does a State Park stay at No.1 in terms of Attendance?
 
 <h4><b>Visualisation</b></h4>
 To Create a Dashboard to show all the different State Park Facilities for the State of New York in the USA.
