@@ -27,7 +27,8 @@ Chart of the yearly attendance of each park (Interactive)
 
 <h4><b>Demo of Webpage</b></h4>
 Main Landing Page - (About the Project)
-![Alt text](/path/to/img.jpg "Optional title")
+![main](https://user-images.githubusercontent.com/78995824/126478707-fbbcbe6e-9221-49bc-841c-b04a0e32f2e0.JPG)
+
 
 Interactive Map and Interactive Charts (2 Pages)
 ![Alt text](/path/to/img.jpg "Optional title")
