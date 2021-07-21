@@ -26,18 +26,41 @@ A heatmap of the park data
 Chart of the yearly attendance of each park (Interactive)
 
 <h4><b>Demo of Webpage</b></h4>
-Main Landing Page - (About the Project)
+Main Landing Page - (About the Project, including links to the data visuals)
+
 ![main](https://user-images.githubusercontent.com/78995824/126478707-fbbcbe6e-9221-49bc-841c-b04a0e32f2e0.JPG)
 
 
-Interactive Map and Interactive Charts (2 Pages)
-![Alt text](/path/to/img.jpg "Optional title")
+<h4><b>Interactive Map</h4></b>
 
-Pop up page - About Us ( All of the Collaborators and their profile)
-![Alt text](/path/to/img.jpg "Optional title")
+![mapdemo](https://user-images.githubusercontent.com/78995824/126479662-9b12d0e5-63ac-43a1-9fb6-98a238ba94ad.JPG)
 
-Extras - Data Page and Summary/Analysis Page
-![Alt text](/path/to/img.jpg "Optional title")
+<h4><b>Dynamic Bar Chart to show State Parks with attendance of more than 300 thousand</h4></b>
+
+![bardemo](https://user-images.githubusercontent.com/78995824/126479697-579adfeb-91a1-4e5c-98c7-13dcb2fd4803.JPG)
+
+<h4><b>Interactive Scatter Plot to identify any relationship between Attendance , Income and a County's Population</h4></b>
+
+![scatterdemo](https://user-images.githubusercontent.com/78995824/126479704-74627185-a24d-47f8-be58-0adb97c1b1c2.JPG)
+
+<h4><b>Donut Charts to show State Parks with attendance of more than 1 Million</h4></b>
+
+![donutdemo](https://user-images.githubusercontent.com/78995824/126479723-07452500-294b-412c-bb26-0699f0de9ae8.JPG)
+
+<h4><b>A glimps of codes for the data visualisations</h4></b>
+
+Utilised Geojson to plot out each County of the New York State
+![maps](https://user-images.githubusercontent.com/78995824/126479807-c1c495d2-9288-4cc6-a611-dabb0cd37dbb.JPG)
+
+Utilised ChartJS library to create the Bar Charts
+![yearlybar](https://user-images.githubusercontent.com/78995824/126479935-2115e605-0a3e-4c4c-ac3c-a12827ab0d4d.JPG)
+
+Function to update the tool tip when another X Axis is selected
+![scatter](https://user-images.githubusercontent.com/78995824/126480098-df153174-c59b-4917-a572-e36760898a7d.JPG)
+
+Used lists to capture filtered data and utilised Plotly to plot the Donut charts 
+![donut](https://user-images.githubusercontent.com/78995824/126480668-a16d2901-17ed-4a65-aef6-0812b0b7de80.JPG)
+
 
 <h4><b>Links</b></h4>
 
@@ -65,5 +88,5 @@ New York State County Boundaries (GeoJSON format):
 https://public.opendatasoft.com/explore/dataset/us-county-boundaries/export/?disjunctive.statefp&disjunctive.countyfp&disjunctive.name&disjunctive.namelsad&disjunctive.stusab&disjunctive.state_name&refine.stusab=NY
 
  
-Link to Github Repo
-https://github.com/makintha/project2-group3
+<h4><b>Link to Deployed Website</h4></b>
+https://newyork-newyork.herokuapp.com/
