@@ -64,28 +64,25 @@ Used lists to capture filtered data and utilised Plotly to plot the Donut charts
 
 <h4><b>Links</b></h4>
 
-State Park Site:
-http://nysparks.com/parks/142/details.aspx
+[State Park Site](http://nysparks.com/parks/142/details.aspx)
 
-New York State Map:
-https://www.google.com/maps/search/new+york+state/@42.5326765,-75.8025206,8z 
+[New York State Map](https://www.google.com/maps/search/new+york+state/@42.5326765,-75.8025206,8z) 
 
-2019 New York State Population:
-https://www.census.gov/search-results.html?q=population+new+york+state&page=1&stateGeo=none&searchtype=web&cssp=SERP&_charset_=UTF-8
+[2019 New York State Population](https://www.census.gov/search-results.html?q=population+new+york+state&page=1&stateGeo=none&searchtype=web&cssp=SERP&_charset_=UTF-8)
 
 State Park Attendance (We picked 2019 to fit with 2019 Population data)
+
 https://data.ny.gov/Recreation/State-Park-Annual-Attendance-Figures-by-Facility-B/8f3n-xj78/data
+
 https://data.ny.gov/
+
 https://cugir.library.cornell.edu/catalog/cugir-007865
 
-GeoJson Polygons for each county for New York State:
-http://gis.ny.gov/civil-boundaries/
+[GeoJson Polygons for each county for New York State](http://gis.ny.gov/civil-boundaries/)
 
-US County Boundaries:
-https://public.opendatasoft.com/explore/dataset/us-county-boundaries/export/?disjunctive.statefp&disjunctive.countyfp&disjunctive.name&disjunctive.namelsad&disjunctive.stusab&disjunctive.state_name&sort=stusab
+[US County Boundaries](https://public.opendatasoft.com/explore/dataset/us-county-boundaries/export/?disjunctive.statefp&disjunctive.countyfp&disjunctive.name&disjunctive.namelsad&disjunctive.stusab&disjunctive.state_name&sort=stusab)
 
-New York State County Boundaries (GeoJSON format):
-https://public.opendatasoft.com/explore/dataset/us-county-boundaries/export/?disjunctive.statefp&disjunctive.countyfp&disjunctive.name&disjunctive.namelsad&disjunctive.stusab&disjunctive.state_name&refine.stusab=NY
+[New York State County Boundaries (GeoJSON format)](https://public.opendatasoft.com/explore/dataset/us-county-boundaries/export/?disjunctive.statefp&disjunctive.countyfp&disjunctive.name&disjunctive.namelsad&disjunctive.stusab&disjunctive.state_name&refine.stusab=NY)
 
  
 <h4><b>Link to Deployed Website</h4></b>
